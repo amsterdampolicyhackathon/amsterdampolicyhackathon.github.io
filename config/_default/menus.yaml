@@ -10,7 +10,7 @@ main:
     url: /#about
     weight: 20
   - name: Challenges
-    url: /#about
+    url: /#challenges
     weight: 30
   - name: Sponsors
     weight: 40

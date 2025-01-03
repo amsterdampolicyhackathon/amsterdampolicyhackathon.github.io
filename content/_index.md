@@ -16,14 +16,6 @@ sections:
         text: Sign Up
         url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
         icon: 📝
-      # secondary_action:
-      #   text: Read more
-      #   url: https://docs.hugoblox.com
-      # announcement:
-      #   text: "Announcing the release of version 1."
-      #   link:
-      #     text: "Read more"
-      #     url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
