@@ -1,49 +1,21 @@
 ---
-title: 'Team'
-date: 2023-10-24
+title: People
+date: 2022-10-24
 
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "6rem"
-
 sections:
-- block: cta-image-paragraph
-  id: team
-  content:
-    items:
-      - title: Diego van der Mast
-        text: Co-organizer
-        feature_icon: check
-        features:
-          - "Yes"
-        # Upload image to `assets/media/` and reference the filename here
-        image: build-website.png
-        # button:
-        #   text: Get Started
-        #   url: https://hugoblox.com/templates/
-      - title: Mike Geerts
-        text: Co-organizer
-        feature_icon: bolt
-        features:
-          - "Hi"
-        # Upload image to `assets/media/` and reference the filename here
-        image: coffee.jpg
-        # button:
-        #   text: Join Discord
-        #   url: https://discord.gg/z8wNYzb
-      - title: Xuelong Fu
-        text: Co-organizer
-        feature_icon: bolt
-        features:
-          - "Hi"
-        # Upload image to `assets/media/` and reference the filename here
-        image: coffee.jpg
-        # button:
-        #   text: Join Discord
-        #   url: https://discord.gg/z8wNYzb
+  - block: people
+    content:
+      title: Meet the Team
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Co-organizer
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      show_interests: false
+      show_role: true
+      show_social: true
 ---
