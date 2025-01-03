@@ -14,7 +14,7 @@ main:
     weight: 30
   - name: Sponsors
     weight: 40
-  - url: /sponsors
+    url: /sponsors
   - name: FAQ
     weight: 50
     url: /faq
