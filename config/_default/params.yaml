@@ -13,15 +13,15 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Ammsterdam Policy Hackathon'
+    description: 'Organisation page for data-driven policy making hackathon event based in Amsterdam'
+    # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
-    pirsch: ''
+    pirsch: 'kazkoffCx2vmpx6lfk8Ujwae4S7IGU6j'
   verification:
     google: ''
     baidu: ''
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: 'Amsterdam Policy Hackathon'
 
 # Localization
 locale:
