@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Amsterdam Policy Hackathon
+      text: bottom text
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
