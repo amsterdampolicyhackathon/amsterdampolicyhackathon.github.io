@@ -6,15 +6,18 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: About
+    url: /#about
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Challenges
+    url: /#about
     weight: 30
-  - name: Resources
+  - name: Sponsors
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - url: /sponsors
+  - name: FAQ
+    weight: 50
+    url: /faq
+  - name: Team
+    weight: 60
+    url: /team

@@ -38,12 +38,14 @@ sections:
           filters:
             brightness: 0.5
   - block: markdown
-    id: main-page-content
+    id: about
     content:
       title: About
       text: In the Amsterdam Policy Hackathon, teams of participants develop policy solutions to pressing societal issues from govermental and industry actors in a data-driven manner.
+
+      Are you motivated to work together in a team of motivated, interdisciplenary peers to solve some of Europe's most pressing challenges? Then apply below!
   - block: markdown
-    id: main-page-challenges
+    id: challenges
     content:
       title: Challenges
       text: To be announced, stay tuned!

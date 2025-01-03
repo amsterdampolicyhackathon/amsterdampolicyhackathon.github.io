@@ -39,15 +39,15 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Apply"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: 'Amsterdam Policy Hackathon'
+    notice: 'Amsterdam Policy Hackathon. Contact us at email@gmail.com'
 
 # Localization
 locale:
