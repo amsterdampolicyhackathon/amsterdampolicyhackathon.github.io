@@ -7,7 +7,7 @@ design:
   spacing: "6rem"
 
 sections:
-- block: markdown
+  - block: markdown
     id: faq
     content:
       title: Frequently Asked Questions
