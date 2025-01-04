@@ -55,6 +55,7 @@ sections:
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>        
     design:
+      color: white
       # Choose an optional background color, gradient, image, or video
       background:
         image:
@@ -74,10 +75,10 @@ sections:
       text: To be announced, stay tuned!
   - block: markdown
     content:
-      title:
-      subtitle:
+      title: Applications are not open yet!
+      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in May 2025!
       text: |
-        {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" cta_new_tab="true" cta_alt_text="Deadline: April 2025"%}}
+        {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" cta_new_tab="true"%}}
     design:
       columns: '1'
 ---
