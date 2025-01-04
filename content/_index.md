@@ -1,54 +1,80 @@
 ---
-title: 'Home'
-date: 2023-10-24
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
 type: landing
-
-design:
-  # Default section spacing
-  spacing: "6rem"
 
 sections:
   - block: hero
     content:
-      title: Amsterdam Policy Hackathon
-      text: bottom text
-      primary_action:
-        text: Sign Up
-        url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
-        icon: 📝
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      view: card
+      columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
       background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg-amsterdam.jpg
+        image: 
+          filename: coders.jpg
           filters:
-            brightness: 0.5
-  - block: markdown
-    id: about
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  - block: collection
     content:
-      title: About
-      text: In the Amsterdam Policy Hackathon, teams of participants develop policy solutions to pressing societal issues from govermental and industry actors in a data-driven manner. Are you motivated to work together in a team of motivated, interdisciplenary peers to solve some of Europe's most pressing challenges? Then apply below!
-  - block: markdown
-    id: challenges
-    content:
-      title: Challenges
-      text: To be announced, stay tuned!
-  - block: cta-card
-    content:
-      title: Register now!
-      text: Deadline April XXth, 2025
-      button:
-        text: Apply ➡️
-        url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      view: citation
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---

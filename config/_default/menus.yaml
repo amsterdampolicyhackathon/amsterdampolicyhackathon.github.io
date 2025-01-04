@@ -1,23 +1,24 @@
 # Navigation Links
-#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
-#   The `weight` parameter defines the order that the links will appear in.
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /#top
+  - name: Tour
+    url: tour
     weight: 10
-  - name: About
-    url: /#about
+  - name: News
+    url: post
     weight: 20
-  - name: Challenges
-    url: /#challenges
+  - name: People
+    url: people
     weight: 30
-  - name: Sponsors
+  - name: Events
+    url: event
     weight: 40
-    url: /sponsors
-  - name: FAQ
+  - name: Publications
+    url: publication
     weight: 50
-    url: /faq
-  - name: Team
+  - name: Contact
+    url: contact
     weight: 60
-    url: /team
