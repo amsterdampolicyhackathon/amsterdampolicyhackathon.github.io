@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Organisers
+role: Co-organizer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,6 +46,9 @@ profiles:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups: 
+  -Organizers
 
 # Author's website URL
 website: ""
