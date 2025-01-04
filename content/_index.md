@@ -29,9 +29,9 @@ sections:
   - block: hero
     content:
       title: Amsterdam Policy Hackathon
-      image:
+      # image:
         # Reference an image in your `assets/media/` folder
-        filename: bg-amsterdam.jpg
+        # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Apply here!
@@ -57,9 +57,10 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        image:
+          filename: bg-amsterdam.jpg
+          filters:
+            brightness: 0.5
   
   - block: markdown
     id: about
@@ -76,7 +77,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" %}}
+        {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" cta_new_tab="true" cta_alt_text="Deadline: April 2025"%}}
     design:
       columns: '1'
 ---

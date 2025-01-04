@@ -18,8 +18,8 @@ role: Co-organizer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Amsterdam
-    url: https://uva.nl/
+  - name: University of Wageningen
+    url: https://wur.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Urban planner and international event organizer
