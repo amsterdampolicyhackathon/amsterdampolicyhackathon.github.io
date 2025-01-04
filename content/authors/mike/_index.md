@@ -48,7 +48,7 @@ profiles:
 highlight_name: true
 
 user_groups: 
-  -Organizers
+  - Organizers
 
 # Author's website URL
 website: ""
