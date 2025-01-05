@@ -5,12 +5,12 @@ event: Hackathon
 event_url: https://example.org
 
 location: Location
-address:
-  street: -
-  city: Amterdam
-  region: -
-  postcode: -
-  country: Netherlands
+  address:
+    street: -
+    city: Amterdam
+    region: -
+    postcode: -
+    country: Netherlands
 
 summary: Amsterdam Policy Hackathon 2025
 abstract: The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.
