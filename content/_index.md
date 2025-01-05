@@ -28,7 +28,8 @@ sections:
   #           brightness: 0.5
   - block: hero
     content:
-      title: <div style="color: white;">Amsterdam Policy Hackathon</div>
+      title: >-
+        <div style="color: white;">Amsterdam Policy Hackathon</div>
       # image:
         # Reference an image in your `assets/media/` folder
         # filename: bg-amsterdam.jpg
