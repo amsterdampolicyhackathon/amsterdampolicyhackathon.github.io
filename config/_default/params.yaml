@@ -41,7 +41,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.jpg"
     button:
       enable: true
       text: "Apply"
