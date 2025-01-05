@@ -48,13 +48,7 @@ sections:
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
       # Add your Hero text here
       text: >-
-      <div style="text-color: white;">
-        **The Netherland's first data-driven policymaking hackathon.**
-      </div>
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>        
+        <div style="text-color: white;">**The Netherland's first data-driven policymaking hackathon.**</div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>        
     design:
       # Choose an optional background color, gradient, image, or video
       background:
