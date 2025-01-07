@@ -4,13 +4,13 @@ title: Amsterdam Policy Hackathon 2025 | 1st Edition
 event: Hackathon
 event_url: https://example.org
 
-location: Location
+location: Wowchemy HQ
 address:
-  street: -
-  city: Amterdam
-  region: -
-  postcode: -
-  country: Netherlands
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Amsterdam Policy Hackathon 2025
 abstract: The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.
