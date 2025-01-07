@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Amsterdam Policy Hackathon 2025
-abstract: The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.
+abstract: 'The first edition of the Amsterdam Policy Hackathon! For more information, refer to the <a href="/faq">FAQ section</a>.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ authors: [Diego van der Mast, Mike Geerts, Xuelong Fu]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
