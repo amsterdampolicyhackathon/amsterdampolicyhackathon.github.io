@@ -1,5 +1,5 @@
 # Font style metadata
-name = "Minimal"
+name = "hanken"
 
 # Optional Google font URL
 google_fonts = "family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900"
@@ -8,4 +8,4 @@ google_fonts = "family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900"
 heading_font = "Hanken+Grotesk"
 body_font = "Hanken+Grotesk"
 nav_font = "Hanken+Grotesk"
-mono_font = "Hanken+Grotesk Mono"
+mono_font = "Hanken+Grotesk"
