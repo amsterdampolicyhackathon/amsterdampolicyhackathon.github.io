@@ -64,7 +64,6 @@ sections:
       title: About
       text: >- 
       The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry actors. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
-      Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Then apply below!
   - block: markdown
     id: challenges
     content:
