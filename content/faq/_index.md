@@ -24,6 +24,6 @@ sections:
         Teams are expected to present their findings and crafted policies to the audience in a short, 4-minute pitch and a policy action paper. This round focuses on the policy and its content itself, such as what has to be done to solve an issue.
 
         **How will the winners be selected?**  
-        After each team has presented their findings, the judges will select finalists in each team. These finalists are then asked to present in a 1-minute pitch their plan to get policy buy-in. In other words, finalist teams should show how they would convince, e.g., politicians to support their policy so that it gets adopted. After this, the judges may then ask questions about the finalists’ whole policy paper and about both presentations. Lastly, the judges will discuss before selecting a winner for each policy theme.
+        After each team has presented their findings, the judges will select finalists in each team. These finalists are then asked to present in a 3-minute pitch their plan to get policy buy-in. In other words, finalist teams should show how they would convince, e.g., politicians and other stakeholders to support their policy so that it gets adopted. After this, the judges may then ask questions about the finalists’ whole policy paper and about both presentations. Lastly, the judges will discuss before selecting a winner for each policy theme.
 ---
 ---
