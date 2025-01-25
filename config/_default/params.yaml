@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Ammsterdam Policy Hackathon'
-    description: 'Organisation page for data-driven policy making hackathon event based in Amsterdam'
+    org_name: 'Amsterdam Policy Hackathon'
+    description: 'Organisation page for data-driven policymaking hackathon event based in Amsterdam'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Amsterdam Policy Hackathon. Contact us at email@gmail.com'
+    notice: 'Amsterdam Policy Hackathon. Contact us at amsterdampolicyhackathon@gmail.com'
     license:
       enable: true
       allow_derivatives: false

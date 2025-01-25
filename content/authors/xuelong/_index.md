@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Co-organizer
+role: Co-Founder & Co-organizer
 
 # Organizations/Affiliations to show in About widget
 organizations:

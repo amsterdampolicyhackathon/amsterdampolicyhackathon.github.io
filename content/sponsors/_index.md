@@ -13,5 +13,5 @@ sections:
     id: sponsors
     content:
       title: Sponsors
-      text: Interested in sponsoring our event? Reach us at email@gmail.com
+      text: Interested in sponsoring our event? Reach us at amsterdampolicyhackathon@gmail.com
 ---
