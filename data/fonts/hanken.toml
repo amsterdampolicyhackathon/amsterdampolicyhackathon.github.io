@@ -2,7 +2,7 @@
 name = "hanken"
 
 # Optional Google font URL
-google_fonts = "family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900"
+google_fonts = "family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=block"
 
 # Font families
 heading_font = "Hanken+Grotesk"
