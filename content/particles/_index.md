@@ -9,8 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
-    id: chill
+  - block: hero
     content:
       text: >-
         <div id="particles-js"></div>
