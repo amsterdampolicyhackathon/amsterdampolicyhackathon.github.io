@@ -5,7 +5,7 @@ name = "hanken"
 google_fonts = "family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=block"
 
 # Font families
-heading_font = "Archive Regular"
+heading_font = "Hanken Grotesk"
 body_font = "Hanken Grotesk"
 nav_font = "Hanken Grotesk"
 mono_font = "Hanken Grotesk"
