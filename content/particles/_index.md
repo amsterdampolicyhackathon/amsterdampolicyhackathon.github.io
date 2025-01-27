@@ -33,10 +33,6 @@ sections:
       # Add your Hero text here
       text: >-
         <div id="particles-js"></div>
-        <!-- stats - count particles -->
-        <div class="count-particles">
-        <span class="js-count-particles">--</span> particles
-        </div>
         <div style="color: white;"><b>Participate in the Netherland's first data-driven policymaking hackathon.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>        
     design:
       # Choose an optional background color, gradient, image, or video
