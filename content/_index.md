@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-01
 type: landing
 
 sections:
@@ -74,7 +74,7 @@ sections:
   - block: markdown
     content:
       title: Applications are not open yet!
-      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in May 2025!
+      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in June 2025!
       text: |
         {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" cta_new_tab="true"%}}
     design:
