@@ -5,7 +5,7 @@
 
 title: Amsterdam Policy Hackathon # Website name
 logo: "icon.png"
-baseURL: 'https://amsterdampolicyhackathon.org' # Website URL
+baseURL: 'https://example.com' # Website URL
 
 ############################
 ## LANGUAGE
