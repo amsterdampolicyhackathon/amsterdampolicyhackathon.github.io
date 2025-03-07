@@ -1,7 +1,17 @@
 <script src='https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js'></script>
 <!-- <script src='https://threejs.org/examples/js/libs/stats.min.js'></script> -->
 <script defer>
-
+  document.addEventListener('DOMContentLoaded', function() {
+    const nav = document.querySelector('.navbar-brand');
+    if (nav) {
+      const icon = document.createElement('img');
+      icon.src = '/images/logo.jpg';
+      icon.alt = 'Site Icon';
+      icon.style.height = '30px';
+      icon.style.marginRight = '10px';
+      nav.insertBefore(icon, nav.firstChild);
+    }
+  });
 /* ---- particles.js conig ---- */
 particlesJS("particles-js", {
     "particles": {
