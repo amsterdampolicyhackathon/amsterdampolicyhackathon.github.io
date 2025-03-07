@@ -21,11 +21,11 @@ marketing:
     description: 'Organisation page for data-driven policymaking hackathon event based in Amsterdam'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-Q37TVZC9C5'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
-    pirsch: 'kazkoffCx2vmpx6lfk8Ujwae4S7IGU6j'
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
