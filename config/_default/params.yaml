@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Amsterdam Policy Hackathon'
-    description: 'Organisation page for data-driven policymaking hackathon event based in Amsterdam'
-    twitter: 'GetResearchDev'
+    description: 'Join our Data-driven policymaking hackathon event in Amsterdam | 2025'
   analytics:
     google_analytics: 'G-Q37TVZC9C5'
     baidu_tongji: ''
@@ -38,24 +37,19 @@ header:
     blox: "navbar"
     align: "center"
     fixed_to_top: true
-    logo:
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "icon.png"
     button:
       enable: true
       text: "Apply"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog"
     show_search: false
     show_theme_chooser: true
-    show_logo: true
 # Site footer
 
 footer:
   copyright:
     notice: 'Amsterdam Policy Hackathon. Contact us at amsterdampolicyhackathon@gmail.com'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
