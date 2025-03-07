@@ -37,12 +37,17 @@ header:
     blox: "navbar"
     align: "center"
     fixed_to_top: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
     button:
       enable: true
       text: "Apply"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog"
     show_search: false
     show_theme_chooser: true
+    show_logo: true
 # Site footer
 
 footer:
