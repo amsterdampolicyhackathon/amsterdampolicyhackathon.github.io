@@ -14,4 +14,30 @@
     }
   });
 
+  document.addEventListener("DOMContentLoaded", function() {
+    const socialMediaLinks = [
+        { href: "https://www.instagram.com", iconClass: "fa-brands fa-instagram", alt: "Instagram" },
+        { href: "https://www.linkedin.com/company/amsterdam-policy-hackathon", iconClass: "fa-brands fa-linkedin", alt: "LinkedIn" },
+        { href: "https://www.twitter.com", iconClass: "fa-brands fa-twitter", alt: "Twitter" },
+        { href: "https://www.facebook.com", iconClass: "fa-brands fa-facebook", alt: "Facebook" }
+    ];
+    
+    const footer = document.querySelector("footer");
+    const socialContainer = document.createElement("div");
+    socialContainer.classList.add("social-icons");
+    
+    socialMediaLinks.forEach(link => {
+        const anchor = document.createElement("a");
+        anchor.href = link.href;
+        anchor.target = "_blank";
+        anchor.rel = "noopener noreferrer";
+        anchor.innerHTML = `<i class="${link.iconClass}" aria-hidden="true"></i>`;
+        anchor.setAttribute("aria-label", link.alt);
+        socialContainer.appendChild(anchor);
+    });
+    
+    footer.appendChild(socialContainer);
+});
+
+
 </script>
