@@ -21,6 +21,7 @@
     ];
     
     const footer = document.getElementsByTagName("footer");
+    const copy_text = document.getElementsByClassName("copyright-license-text")[0]
     const socialContainer = document.createElement("div");
     socialContainer.classList.add("social-icons");
     
@@ -34,7 +35,7 @@
         socialContainer.appendChild(anchor);
     });
     
-    footer[0].appendChild(socialContainer);
+    footer[0].insertBefore(socialContainer, copy_text);
 });
 
 
