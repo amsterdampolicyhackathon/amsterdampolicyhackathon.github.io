@@ -1,6 +1,6 @@
 ---
 title: Team
-date: 2022-10-24
+date: 2025-03-21
 
 type: landing
 
@@ -12,6 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Organizers
+          - Advisors
       sort_by: Params.last_name
       sort_ascending: true
     design:
