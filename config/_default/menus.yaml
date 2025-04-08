@@ -12,9 +12,9 @@ main:
   - name: Challenges
     url: /#challenges
     weight: 30
-  - name: Sponsors
+  - name: Partners
     weight: 40
-    url: /sponsors
+    url: /partners
   - name: FAQ
     weight: 50
     url: /faq
