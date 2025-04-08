@@ -73,10 +73,10 @@ sections:
       text: To be announced, stay tuned!
   - block: markdown
     content:
-      title: Applications are not open yet!
-      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in June 2025!
+      title: Applications are open!
+      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in September 2025!
       text: |
-        {{% cta cta_link="https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog" cta_text="Register now! →" cta_new_tab="true"%}}
+        {{% cta cta_link="https://forms.gle/aB2KvRuoPSzJcrGSA" cta_text="Register now! →" cta_new_tab="true"%}}
     design:
       columns: '1'
 ---
