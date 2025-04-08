@@ -35,10 +35,11 @@ sections:
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Apply here!
+        label: "<span style='background-color:red;color:white;padding:10px 20px;border-radius:5px;'>Apply here!</span>"
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
         icon: right-to-bracket
+        # class: cta_button
       # Optionally, add an alternative CTA link
       cta_alt:
         label: View challenges
