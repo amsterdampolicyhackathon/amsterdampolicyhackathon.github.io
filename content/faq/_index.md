@@ -14,7 +14,7 @@ sections:
     content:
       title: Frequently Asked Questions (in progress)
       text: |
-        ### Who can attend the event?
+        #### Who can attend the event?
         We welcome anyone with a strong interest in interdisciplinary policymaking. At our event, we also emphasize the role of data and technology to enhance policymaking. However, technical skills (e.g., programming) are not strictly required. While we generally target university students and young professionals, anyone can register as participant. We welcome students from different disciplinary backgrounds. 
         
         ## Event Logistics Questions
@@ -35,8 +35,6 @@ sections:
 
         #### How will the winners be selected?
         After each team has presented their findings, the judges will select finalists in each team. These finalists are then asked to present in a 3-minute pitch their plan to get policy buy-in. In other words, finalist teams should show how they would convince, e.g., politicians and other stakeholders to support their policy so that it gets adopted. After this, the judges may then ask questions about the finalists’ whole policy paper and about both presentations. Lastly, the judges will discuss before selecting a winner for each policy theme.
-
-        #### What will winners receive?
 
 
 ---
