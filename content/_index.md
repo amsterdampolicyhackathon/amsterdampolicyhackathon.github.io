@@ -35,7 +35,7 @@ sections:
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: "<span style='background-color:red;color:white;padding:10px 20px;border-radius:5px;'>Apply here!</span>"
+        label: Apply here!
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
         icon: right-to-bracket
@@ -50,7 +50,7 @@ sections:
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
       # Add your Hero text here
       text: >-
-        <div style="color: white;"><b>A new hackathon focused on interdisciplinary, data-driven policymaking.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>        
+        <div style="color: white;"><b>A new hackathon focused on interdisciplinary, data-driven policymaking.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>   
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -65,8 +65,12 @@ sections:
       title: About
       text: |-
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry actors. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
+
+        **Applications are open!**
         
-        Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Apply now!
+        Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? 
+        
+        Apply now and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
   - block: markdown
     id: challenges
     content:
