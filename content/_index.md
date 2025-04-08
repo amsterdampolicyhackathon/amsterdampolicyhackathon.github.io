@@ -36,7 +36,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Apply here!
-        url: https://docs.google.com/forms/d/e/1FAIpQLSc6jM8kdDcWxt-Su7DlmraSccM4ZTA4pDgFGnEHH880IyugiA/viewform?usp=dialog
+        url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
         icon: right-to-bracket
       # Optionally, add an alternative CTA link
