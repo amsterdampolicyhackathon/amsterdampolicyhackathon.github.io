@@ -35,7 +35,6 @@ sections:
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        color: "red"
         label: Apply here!
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
