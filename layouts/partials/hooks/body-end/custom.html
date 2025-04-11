@@ -36,6 +36,14 @@
     });
     
     footer[0].insertBefore(socialContainer, copy_text);
+
+    const people = document.getElementsByClassName("people-person")
+    for (let person of people) {
+        const link = person.querySelector('a');
+        if (link) {
+            link.style.color = '#000000';
+        }
+    }
 });
   
 </script>
