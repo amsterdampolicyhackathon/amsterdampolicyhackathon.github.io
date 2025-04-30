@@ -72,6 +72,15 @@ sections:
         
         Apply now and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
   - block: markdown
+    id: partners
+    content:
+      title: Affiliated with
+      text: >-
+        <div class="logo-container">
+          <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
+          <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)">
+        </div> 
+- block: markdown
     id: challenges
     content:
       title: Challenges
