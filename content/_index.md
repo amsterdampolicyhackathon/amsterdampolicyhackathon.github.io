@@ -80,7 +80,7 @@ sections:
           <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
           <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)">
         </div> 
-- block: markdown
+  - block: markdown
     id: challenges
     content:
       title: Challenges
