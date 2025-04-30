@@ -77,8 +77,8 @@ sections:
       title: Affiliated with
       text: >-
         <div class="logo-container">
-          <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
-          <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)">
+          <a href="https://idss.mit.edu/" target="_blank"><img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)"></a>
+          <a href="https://recimpact.uva.nl/" target="_blank"><img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)"></a>
         </div> 
   - block: markdown
     id: challenges
