@@ -81,7 +81,7 @@ sections:
             <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
           </a>
           <a href="https://recimpact.uva.nl/" target="_blank">
-            <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 200px; height: auto;">
+            <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
           </a>
         </div> 
   - block: markdown
