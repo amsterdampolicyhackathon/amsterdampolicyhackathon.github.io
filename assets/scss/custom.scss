@@ -35,15 +35,24 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px; /* Space between logos */
-  flex-wrap: wrap; /* Wrap logos if screen is too small */
+  gap: 20px;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 20px 0;
+  
+  & > * {
+    flex: 0 1 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .logo-container img {
-  max-height: 100px; /* Adjust height */
-  width: auto; /* Maintain aspect ratio */
+  max-height: 100px;
+  width: auto;
   object-fit: contain;
-  margin: 0px 40px
+  margin: 0 20px;
 }
 
 #partners {

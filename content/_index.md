@@ -77,9 +77,11 @@ sections:
       title: Affiliated with
       text: >-
         <div class="logo-container">
-          <a href="https://idss.mit.edu/" target="_blank"><img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)"></a>
+          <a href="https://idss.mit.edu/" target="_blank">
+            <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
+          </a>
           <a href="https://recimpact.uva.nl/" target="_blank">
-            <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="transform: scale(0.6); transform-origin: top left;">
+            <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 200px; height: auto;">
           </a>
         </div> 
   - block: markdown
