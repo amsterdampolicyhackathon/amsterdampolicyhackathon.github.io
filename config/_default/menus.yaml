@@ -21,6 +21,6 @@ main:
   - name: Team
     weight: 60
     url: /team
-  - name: Events
-    weight: 70
-    url: /events
+  # - name: Events
+  #   weight: 70
+  #   url: /events
