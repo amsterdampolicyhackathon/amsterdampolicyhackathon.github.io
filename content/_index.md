@@ -41,9 +41,10 @@ sections:
         icon: right-to-bracket
         # class: cta_button
       # Optionally, add an alternative CTA link
-      cta_alt:
-        label: View challenges
-        url: /#challenges
+      # cta_alt:
+      #   label: View challenges
+      #   url: /#challenges
+
       # Optionally, add a note under the Call-To-Action button
       # cta_note:
       #   label: >-
@@ -74,7 +75,9 @@ sections:
   - block: markdown
     content:
       title: Registrations are open!
-      subtitle: Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Express your interest below and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
+      subtitle: Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! 
+      
+        Express your interest below and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
       text: |
         {{% cta cta_link="https://forms.gle/aB2KvRuoPSzJcrGSA" cta_text="Register now! →" cta_new_tab="true"%}}
     design:
