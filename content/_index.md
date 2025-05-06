@@ -35,7 +35,7 @@ sections:
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Apply here!
+        label: Register here!
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
         icon: right-to-bracket
@@ -66,11 +66,11 @@ sections:
       text: |-
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, students and young professionals form multidisciplinary teams to develop data-informed policies and/ or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry actors. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
 
-        **Applications are open!**
+        **Registrations are open!**
         
         Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? 
         
-        Apply now and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
+        Register your interest now and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
   - block: markdown
     id: partners
     content:
@@ -84,15 +84,15 @@ sections:
             <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
           </a>
         </div> 
+  # - block: markdown
+  #   id: challenges
+  #   content:
+  #     title: Challenges
+  #     text: To be announced, stay tuned!
   - block: markdown
-    id: challenges
     content:
-      title: Challenges
-      text: To be announced, stay tuned!
-  - block: markdown
-    content:
-      title: Applications are open!
-      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Register below and join us in September 2025!
+      title: Registrations are open!
+      subtitle: Do you want to participate in the first Amsterdam Policy Hackathon? Express your interest below and join us in September 2025!
       text: |
         {{% cta cta_link="https://forms.gle/aB2KvRuoPSzJcrGSA" cta_text="Register now! →" cta_new_tab="true"%}}
     design:
