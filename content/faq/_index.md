@@ -12,7 +12,7 @@ sections:
   - block: markdown
     id: faq
     content:
-      title: Frequently Asked Questions (in progress)
+      title: Frequently Asked Questions (under construction)
       text: |
         #### Who can attend the event?
         We welcome anyone with a strong interest in interdisciplinary policymaking. At our event, we also emphasize the role of data and technology to enhance policymaking. However, technical skills (e.g., programming) are not strictly required. While we generally target university students and young professionals, anyone can register as participant. We welcome students from different disciplinary backgrounds. 
