@@ -83,6 +83,10 @@ sections:
           <a href="https://recimpact.uva.nl/" target="_blank">
             <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
           </a>
+          <a href="https://vu.nl/" target="_blank">
+            <img src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)" style="max-width: 350px; height: auto;">
+          </a>
+
         </div> 
   - block: markdown
     id: challenges
