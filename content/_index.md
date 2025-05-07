@@ -87,10 +87,10 @@ sections:
       text: >-
         <div class="logo-container">
           <a href="https://idss.mit.edu/" target="_blank">
-            <img src="/images/mit.jpg" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
+            <img src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
           </a>
           <a href="https://recimpact.uva.nl/" target="_blank">
-            <img src="/images/rec_impact.jpg" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
+            <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
           </a>
           <a href="https://vu.nl/" target="_blank">
             <img src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)" style="max-width: 350px; height: auto;">
