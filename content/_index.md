@@ -75,7 +75,7 @@ sections:
   - block: markdown
     content:
       title: Registrations are open!
-      subtitle: Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Express your interest and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
+      subtitle: Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Register for the event and join us from **4PM CET on Friday, September 12, to 6PM CET on Sunday, September 14**!
       text: |
         {{% cta cta_link="https://forms.gle/aB2KvRuoPSzJcrGSA" cta_text="Register now!" cta_new_tab="true"%}}
     design:
