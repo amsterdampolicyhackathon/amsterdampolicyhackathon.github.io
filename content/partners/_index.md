@@ -50,9 +50,4 @@ sections:
             <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab"">
           </a>
         </div>
-        <script>
-        var copy = document.querySelector(".logos-slide").cloneNode(true);
-      document.querySelector(".logos").appendChild(copy);
-        </script>
-              
 ---
