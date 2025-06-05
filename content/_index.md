@@ -91,19 +91,19 @@ sections:
               <img src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
             </a>
             <a href="https://vu.nl/" target="_blank">
-              <img src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)">
+              <img src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)" style="max-width: 350px; height: auto;">
             </a>
             <a href="https://recimpact.uva.nl/" target="_blank">
-              <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)">
+              <img src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)" style="max-width: 350px; height: auto;">
             </a>
             <a href="https://dsc.uva.nl/" target="_blank">
-              <img src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center">
+              <img src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center" style="max-width: 350px; height: auto;">
             </a>
             <a href="https://www.amsterdamai.com/nl/" target="_blank">
-              <img src="/images/amsterdamai.png" alt="Logo for Amsterdam AI">
+              <img src="/images/amsterdamai.png" alt="Logo for Amsterdam AI" style="max-width: 350px; height: auto;">
             </a>
             <a href="https://www.sustainalab.nl/" target="_blank">
-              <img src="/images/sustainalab.png" alt="Logo for Sustainalab">
+              <img src="/images/sustainalab.png" alt="Logo for Sustainalab" style="max-width: 350px; height: auto;">
             </a>
           </div>
         </div>
