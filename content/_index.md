@@ -88,7 +88,7 @@ sections:
         <div class="logos">
           <div class='logos-slide'>
             <a href="https://idss.mit.edu/" target="_blank">
-              <img class='logo-image' src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)">
+              <img class='logo-image' src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)" style="max-width: 350px; height: auto;">
             </a>
             <a href="https://vu.nl/" target="_blank">
               <img class='logo-image' src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)" style="max-width: 350px; height: auto;">
