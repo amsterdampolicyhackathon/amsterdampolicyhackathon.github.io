@@ -26,7 +26,7 @@ sections:
         
         Interested in providing a case or sponsoring? Reach us at amsterdampolicyhackathon[at]gmail.com
   - block: markdown
-      id: partners
+      id: partners_images
       content:
         title: Affiliated with
         text: >-
