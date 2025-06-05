@@ -98,6 +98,11 @@ sections:
           <a href="https://dsc.uva.nl/" target="_blank">
             <img src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center" style="max-width: 350px; height: auto;">
           </a>
-
+          <a href="https://www.amsterdamai.com/nl/" target="_blank">
+            <img src="/images/amsterdamai.png" alt="Logo for Amsterdam AI" style="max-width: 350px; height: auto;">
+          </a>
+          <a href="https://www.sustainalab.nl/" target="_blank">
+            <img src="/images/sustainalab.png" alt="Logo for Sustainalab" style="max-width: 350px; height: auto;">
+          </a>
         </div> 
 ---
