@@ -104,12 +104,19 @@
   display: flex;
   animation: 35s slide infinite linear;
   align-items: center;
+  width: max-content;
 }
 
 .logos-slide a {
   margin: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .logo-image {
-    height: auto;
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+  min-width: 100px;
 }
