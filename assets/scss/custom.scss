@@ -70,9 +70,9 @@
 .logos {
   overflow: hidden;
   padding: 60px 0;
-  background:  #f7f7f7;
   white-space: nowrap;
   position: relative;
+  display: inline-flex;
 }
 
 .logos:before,
