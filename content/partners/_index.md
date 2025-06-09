@@ -28,7 +28,7 @@ sections:
   - block: markdown
     id: partners_images
     content:
-      title: Affiliated with
+      title: Join us alongside our valued partners who already support our mission
       text: >-
         <div class="logo-container">
           <a href="https://idss.mit.edu/" target="_blank">

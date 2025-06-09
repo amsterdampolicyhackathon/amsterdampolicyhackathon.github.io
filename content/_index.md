@@ -83,7 +83,7 @@ sections:
   - block: markdown
     id: partners
     content:
-      title: Affiliated with
+      title: Supported by
       text: >-
         <div class="logos">
           <div class='logos-slide'>
