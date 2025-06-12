@@ -50,7 +50,7 @@ sections:
             <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab"">
           </a>
           <a href="https://kickstart.ai/" target="_blank">
-            <img class='logo-image-partner' src="/images/kickstart_ai.jpg" alt="Logo for Kickstart AI"">
+            <img class='logo-image-partner' src="/images/kickstart_ai.png" alt="Logo for Kickstart AI"">
           </a>
         </div>
 ---

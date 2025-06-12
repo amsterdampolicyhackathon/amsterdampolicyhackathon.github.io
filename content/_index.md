@@ -89,25 +89,25 @@ sections:
         <div class="logos">
           <div class='logos-slide'>
             <a href="https://idss.mit.edu/" target="_blank">
-              <img src="/images/mit.png" alt="MIT IDSS" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/mit.png" alt="MIT IDSS" style="transform: scale(1); object-fit: contain;">
             </a>
             <a href="https://vu.nl/" target="_blank">
-              <img src="/images/vu.png" alt="VU" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/vu.png" alt="VU" style="transform: scale(1); object-fit: contain;">
             </a>
             <a href="https://recimpact.uva.nl/" target="_blank">
-              <img src="/images/rec_impact.png" alt="REC Impact" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/rec_impact.png" alt="REC Impact" style="transform: scale(0.97); object-fit: contain;">
             </a>
             <a href="https://dsc.uva.nl/" target="_blank">
-              <img src="/images/uva_dsc.png" alt="UvA DSC" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/uva_dsc.png" alt="UvA DSC" style="transform: scale(0.94); object-fit: contain;">
             </a>
             <a href="https://www.amsterdamai.com/nl/" target="_blank">
-              <img src="/images/amsterdamai.png" alt="Amsterdam AI" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/amsterdamai.png" alt="Amsterdam AI" style="transform: scale(1); object-fit: contain;">
             </a>
             <a href="https://www.sustainalab.nl/" target="_blank">
-              <img src="/images/sustainalab.png" alt="Sustainalab" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/sustainalab.png" alt="Sustainalab" style="transform: scale(1); object-fit: contain;">
             </a>
             <a href="https://kickstart.ai/" target="_blank">
-              <img src="/images/kickstart_ai.jpg" alt="Kickstart AI" style="transform: scale(0.9); height: 60px; object-fit: contain;">
+              <img src="/images/kickstart_ai.png" alt="Kickstart AI" style="transform: scale(0.95); object-fit: contain;">
             </a>
           </div>
         </div>
@@ -116,33 +116,3 @@ sections:
           document.querySelector(".logos").appendChild(copy);
         </script>
 ---
-
-
-
-
-        <!-- <div class="logos">
-          <div class='logos-slide'>
-            <a href="https://idss.mit.edu/" target="_blank">
-              <img class='logo-image' src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)"">
-            </a>
-            <a href="https://vu.nl/" target="_blank">
-              <img class='logo-image' src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)"">
-            </a>
-            <a href="https://recimpact.uva.nl/" target="_blank">
-              <img class='logo-image' src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)"">
-            </a>
-            <a href="https://dsc.uva.nl/" target="_blank">
-              <img class='logo-image' src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center"">
-            </a>
-            <a href="https://www.amsterdamai.com/nl/" target="_blank">
-              <img class='logo-image' src="/images/amsterdamai.png" alt="Logo for Amsterdam AI"">
-            </a>
-            <a href="https://www.sustainalab.nl/" target="_blank">
-              <img class='logo-image' src="/images/sustainalab.png" alt="Logo for Sustainalab"">
-            </a>
-          </div>
-        </div>
-        <script>
-          var copy = document.querySelector(".logos-slide").cloneNode(true);
-          document.querySelector(".logos").appendChild(copy);
-        </script> -->
