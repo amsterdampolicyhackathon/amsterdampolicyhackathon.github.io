@@ -111,36 +111,38 @@ sections:
             </a>
           </div>
         </div>
-
         <script>
           var copy = document.querySelector(".logos-slide").cloneNode(true);
           document.querySelector(".logos").appendChild(copy);
         </script>
-
-        # <div class="logos">
-        #   <div class='logos-slide'>
-        #     <a href="https://idss.mit.edu/" target="_blank">
-        #       <img class='logo-image' src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)"">
-        #     </a>
-        #     <a href="https://vu.nl/" target="_blank">
-        #       <img class='logo-image' src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)"">
-        #     </a>
-        #     <a href="https://recimpact.uva.nl/" target="_blank">
-        #       <img class='logo-image' src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)"">
-        #     </a>
-        #     <a href="https://dsc.uva.nl/" target="_blank">
-        #       <img class='logo-image' src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center"">
-        #     </a>
-        #     <a href="https://www.amsterdamai.com/nl/" target="_blank">
-        #       <img class='logo-image' src="/images/amsterdamai.png" alt="Logo for Amsterdam AI"">
-        #     </a>
-        #     <a href="https://www.sustainalab.nl/" target="_blank">
-        #       <img class='logo-image' src="/images/sustainalab.png" alt="Logo for Sustainalab"">
-        #     </a>
-        #   </div>
-        # </div>
-        # <script>
-        #   var copy = document.querySelector(".logos-slide").cloneNode(true);
-        #   document.querySelector(".logos").appendChild(copy);
-        # </script>
 ---
+
+
+
+
+        <!-- <div class="logos">
+          <div class='logos-slide'>
+            <a href="https://idss.mit.edu/" target="_blank">
+              <img class='logo-image' src="/images/mit.png" alt="Logo for MIT Institute for Data, Systems, and Society (IDSS)"">
+            </a>
+            <a href="https://vu.nl/" target="_blank">
+              <img class='logo-image' src="/images/vu.png" alt="Logo for Vrije Universiteit (VU)"">
+            </a>
+            <a href="https://recimpact.uva.nl/" target="_blank">
+              <img class='logo-image' src="/images/rec_impact.png" alt="Logo for UvA Roeterseilandcampus Impact (REC Impact)"">
+            </a>
+            <a href="https://dsc.uva.nl/" target="_blank">
+              <img class='logo-image' src="/images/uva_dsc.png" alt="Logo for UvA Data Science Center"">
+            </a>
+            <a href="https://www.amsterdamai.com/nl/" target="_blank">
+              <img class='logo-image' src="/images/amsterdamai.png" alt="Logo for Amsterdam AI"">
+            </a>
+            <a href="https://www.sustainalab.nl/" target="_blank">
+              <img class='logo-image' src="/images/sustainalab.png" alt="Logo for Sustainalab"">
+            </a>
+          </div>
+        </div>
+        <script>
+          var copy = document.querySelector(".logos-slide").cloneNode(true);
+          document.querySelector(".logos").appendChild(copy);
+        </script> -->
