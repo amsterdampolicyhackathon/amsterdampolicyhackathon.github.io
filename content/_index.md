@@ -85,29 +85,28 @@ sections:
     content:
       title: Supported by
       text: >-
-
         <div class="logos">
           <div class='logos-slide'>
             <a href="https://idss.mit.edu/" target="_blank">
-              <img src="/images/mit.png" alt="MIT IDSS" style="transform: scale(1); object-fit: contain;">
+              <img src="/images/mit.png" alt="MIT IDSS"">
             </a>
             <a href="https://vu.nl/" target="_blank">
-              <img src="/images/vu.png" alt="VU" style="transform: scale(1); object-fit: contain;">
+              <img src="/images/vu.png" alt="VU"">
             </a>
             <a href="https://recimpact.uva.nl/" target="_blank">
-              <img src="/images/rec_impact.png" alt="REC Impact" style="transform: scale(0.97); object-fit: contain;">
+              <img src="/images/rec_impact.png" alt="REC Impact"">
             </a>
             <a href="https://dsc.uva.nl/" target="_blank">
-              <img src="/images/uva_dsc.png" alt="UvA DSC" style="transform: scale(0.94); object-fit: contain;">
+              <img src="/images/uva_dsc.png" alt="UvA DSC"">
             </a>
             <a href="https://www.amsterdamai.com/nl/" target="_blank">
-              <img src="/images/amsterdamai.png" alt="Amsterdam AI" style="transform: scale(1); object-fit: contain;">
+              <img src="/images/amsterdamai.png" alt="Amsterdam AI"">
             </a>
             <a href="https://www.sustainalab.nl/" target="_blank">
-              <img src="/images/sustainalab.png" alt="Sustainalab" style="transform: scale(1); object-fit: contain;">
+              <img src="/images/sustainalab.png" alt="Sustainalab"">
             </a>
             <a href="https://kickstart.ai/" target="_blank">
-              <img src="/images/kickstart_ai.png" alt="Kickstart AI" style="transform: scale(0.95); object-fit: contain;">
+              <img src="/images/kickstart_ai.png" alt="Kickstart AI"">
             </a>
           </div>
         </div>
