@@ -24,7 +24,7 @@ sections:
 
         Support the next generation of interdisciplinary changemakers! By sponsoring the Amsterdam Policy Hackathon, your organization helps empower students and young professionals to tackle real-world policy challenges. Your contribution enables wider participation, greater diversity, and a more impactful event. Sponsorship also provides visibility among future talent, innovation leaders, and a community committed to social good. Join us in making policy innovation more accessible, inclusive, and effective.
         
-        Interested in providing a case or sponsoring? Reach us at amsterdampolicyhackathon[at]gmail.com
+        Interested in providing a case or sponsoring? Reach us at amsterdampolicyhackathon [at] gmail [dot] com
   - block: markdown
     id: partners_images
     content:

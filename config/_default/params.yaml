@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Amsterdam Policy Hackathon. Contact us at amsterdampolicyhackathon[at]gmail.com'
+    notice: 'Amsterdam Policy Hackathon. Contact us at amsterdampolicyhackathon [at] gmail [dot] com'
     license:
       enable: false
       allow_derivatives: false
