@@ -12,30 +12,35 @@ sections:
   - block: markdown
     id: faq
     content:
-      title: Frequently Asked Questions (under construction)
+      title: Frequently Asked Questions
       text: |
         #### Who can attend the event?
-        We welcome anyone with a strong interest in interdisciplinary policymaking. At our event, we also emphasize the role of data and technology to enhance policymaking. However, technical skills (e.g., programming) are not strictly required. While we generally target university students and young professionals, anyone can register as participant. We welcome students from different disciplinary backgrounds. 
+        We welcome anyone with a strong interest in interdisciplinary and data-driven policymaking. However, technical skills (e.g., programming) are not strictly required. While we generally target university students and young professionals, anyone can register as participant. Students from various study backgrounds are welcome to participate.  
 
         #### What is a "policy hackathon"?
-        A policy hackathon may sound unfamiliar for some at first, but the event essentially takes on the format of a traditional hackathon, but with a broader and socially-oriented focus on creating policy rather than technical applications or code solutions. Thus, while we welcome designs or demos of technical solutions that could enhance policymaking, they are not mandatory and the emphasis of the event is on crafting innovative and impactful policy proposals. 
-        
-        ## Event Logistics Questions
+        A policy hackathon may sound unfamiliar to some at first, but the event essentially takes on the format of a traditional hackathon, but with a broader and socially-oriented focus on creating policy rather than only technical applications or code solutions. Therefore, while we welcome designs or demos of technical solutions that could enhance policymaking, they are not mandatory. The emphasis of the event is on crafting innovative, data-informed, and impactful policy proposals, in many cases also enhanced by rigorous data analysis.  
 
-        #### In what language will the hackathon be held in?
-        The event will be fully held in English.
+        ## Hackathon Structure
 
-        #### Will accommodation in Amsterdam be facilitated?
-        We are unable to facilitate accommodation in any form. Participants are expected to plan their own
-        stay.
-
-        ## Hackathon Questions
+        #### What will participants work on?
+        At the kick-off of the event, teams will select one of the four policy themes they would want work on. These "policy themes" could, for instance, be: Healthcare, Sustainability, Responsible AI, Watermanagement, Transparent Governance, Urban Planning & Environment, etc. Each policy theme has a specific challenge case provided by one of our esteemed Challenge Partners, which are organizations that work on pressing societal issues. Throughout the weekend, teams will develop data-driven policy proposals to solve the case within their policy theme. Each theme will be coordinated and guided by a Challenge Director during the event.  
 
         #### What are the deliverables at the end of the hackathon? 
-        Teams are expected to present their findings and crafted policies to the audience in a short, 3-minute pitch and a policy action paper. This round focuses on the policy and its content itself, such as what has to be done to solve an issue.
+        Teams are expected to write a concise policy proposal and/or policy action plan, while also presenting their work to the audience and jury in a short, 3-minute pitch at the end of the hackathon.
 
         #### How will the winners be selected?
-        After each team has presented their findings, the jury will select finalists in each team. These finalists are then asked to present in a 3-minute pitch their plan to get policy buy-in. In other words, finalist teams should show how they would convince, e.g., politicians and other stakeholders to support their policy so that it gets adopted. After this, the jury may then ask questions about the finalists’ policy proposal and the presentations. Lastly, the jury will convene and select a winner for each policy theme.
+        After each team has presented their findings, the jury will select finalists in each policy challenge theme. These finalists then receive the opportunity to answer questions by the jury and audience. Ultimately, the jury will deliberate once again before selecting a winner in each policy theme.
+        
+        ## Practical Questions
+
+        #### What are the costs for attending the hackathon?
+        Participation in the hackathon is free of charge. However, participants are responsible for covering their own travel and accommodation expenses.  
+
+        #### Will accommodation in Amsterdam be facilitated?
+        We are unable to facilitate accommodation in any form. Participants are expected to plan their own stay.
+
+        #### In what language will the hackathon be held in?
+        The event will be fully held in English and the deliverables are expected to be presented in English. 
 
 
 ---
