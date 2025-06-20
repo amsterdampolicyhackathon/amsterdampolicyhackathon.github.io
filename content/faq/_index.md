@@ -23,7 +23,10 @@ sections:
         ## Hackathon Structure
 
         #### What will participants work on?
-        At the kick-off of the event, teams will select one of the four policy themes they would want work on. These "policy themes" could, for instance, be: Healthcare, Sustainability, Responsible AI, Watermanagement, Transparent Governance, Urban Planning & Environment, etc. Each policy theme has a specific challenge case provided by one of our esteemed Challenge Partners, which are organizations that work on pressing societal issues. Throughout the weekend, teams will develop data-driven policy proposals to solve the case within their policy theme. Each theme will be coordinated and guided by a Challenge Director during the event.  
+        At the kick-off of the event, teams will select one of the four policy themes they would want work on. These "policy themes" could, for instance, be: Healthcare, Sustainability, Responsible AI, Watermanagement, Transparent Governance, Urban Planning & Environment, etc. Each policy theme has a specific challenge case provided by one of our esteemed Challenge Partners, which are organizations that work on pressing societal issues. Throughout the weekend, teams will develop data-driven policy proposals to solve the case within their policy theme. Each theme will be guided by a Challenge Director during the event.  
+
+        #### Can teams choose in which policy theme they participate?
+        Yes. During the kick-off, the policy themes and their respective challenge cases will be presented. Then, teams can select in which policy theme (i.e., on which case) they want to work on during the hackathon. However, there will be a limit on the maximum number of teams that can work on a policy theme (e.g., max. 5 teams). Teams may have to sign up for their preferred theme based on first-come first-serve or a ranking of their top 3. 
 
         #### What are the deliverables at the end of the hackathon? 
         Teams are expected to write a concise policy proposal and/or policy action plan, while also presenting their work to the audience and jury in a short, 3-minute pitch at the end of the hackathon.
