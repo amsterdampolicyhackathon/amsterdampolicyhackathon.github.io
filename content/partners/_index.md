@@ -55,5 +55,11 @@ sections:
           <a href="https://wearebit.com/" target="_blank">
             <img class='logo-image-partner' src="/images/bit.png" alt="Logo for Bit"">
           </a>
+          <a href="https://www.pava.ai/" target="_blank">
+            <img class='logo-image-partner' src="/images/pava.png" alt="Logo for PAVA"">
+          </a>
+          <a href="https://www.ams-institute.org/" target="_blank">
+            <img class='logo-image-partner' src="/images/AMS.png" alt="Logo for AMS Institute"">
+          </a>
         </div>
 ---
