@@ -117,7 +117,7 @@ sections:
             <a href="https://www.ams-institute.org/" target="_blank">
               <img class='logo-image' src="/images/AMS.png" alt="Logo for AMS Institute"">
             <a href="https://iis.uva.nl/en" target="_blank">
-              <img class='logo-image' src="/images/iis.png" alt="Logo for UvA Institute for Interdisciplenary Studies (IIS)"">
+              <img class='logo-image' src="/images/iis.jpg" alt="Logo for UvA Institute for Interdisciplenary Studies (IIS)"">
             <a href="https://polder.center//" target="_blank">
               <img class='logo-image' src="/images/polder.png" alt="Logo for Polder Center"">
             </a>

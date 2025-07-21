@@ -62,7 +62,7 @@ sections:
             <img class='logo-image-partner' src="/images/AMS.png" alt="Logo for AMS Institute"">
           </a>
           <a href="https://iis.uva.nl/en" target="_blank">
-            <img class='logo-image-partner' src="/images/iis.png" alt="Logo for UvA Institute for Interdisciplenary Studies (IIS)"">
+            <img class='logo-image-partner' src="/images/iis.jpg" alt="Logo for UvA Institute for Interdisciplenary Studies (IIS)"">
           </a>
           <a href="https://polder.center//" target="_blank">
             <img class='logo-image-partner' src="/images/polder.png" alt="Logo for Polder Center"">
