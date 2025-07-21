@@ -31,13 +31,16 @@ sections:
       title: Join us alongside our valued partners who already support our mission
       text: >-
         <div class="logo-section">
-          <h3>Financial Sponsors</h3>
+          <h3>Made possible by</h3>
           <div class="logo-container">
             <a href="https://wearebit.com/" target="_blank">
               <img class='logo-image-partner' src="/images/bit.png" alt="Logo for Bit">
             </a>
             <a href="https://kickstart.ai/" target="_blank">
               <img class='logo-image-partner' src="/images/kickstart_ai.png" alt="Logo for Kickstart AI">
+            </a>
+            <a href="https://www.sustainalab.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab">
             </a>
           </div>
 
@@ -49,11 +52,7 @@ sections:
             <a href="https://www.ams-institute.org/" target="_blank">
               <img class='logo-image-partner' src="/images/AMS.png" alt="Logo for AMS Institute">
             </a>
-            <a href="https://wearebit.com/" target="_blank">
-              <img class='logo-image-partner' src="/images/bit.png" alt="Logo for Bit">
-            </a>
           </div>
-
           <h3>Community Partners</h3>
           <div class="logo-container">
             <a href="https://vu.nl/" target="_blank">
@@ -79,11 +78,5 @@ sections:
             </a>
           </div>
 
-          <h3>Location Partner</h3>
-          <div class="logo-container">
-            <a href="https://www.sustainalab.nl/" target="_blank">
-              <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab">
-            </a>
-          </div>
         </div>
 ---
