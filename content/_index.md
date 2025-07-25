@@ -121,6 +121,9 @@ sections:
             <a href="https://polder.center//" target="_blank">
               <img class='logo-image' src="/images/polder.png" alt="Logo for Polder Center"">
             </a>
+            <a href="https://www.rijksorganisatieodi.nl/i-partnerschap" target="_blank">
+              <img class='logo-image' src="/images/ipartnerschap.png" alt="Logo for I-Partnerschap">
+            </a>
           </div>
         </div>
         <script>
