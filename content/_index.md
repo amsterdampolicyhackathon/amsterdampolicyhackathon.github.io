@@ -125,7 +125,7 @@ sections:
               <img class='logo-image' src="/images/ipartnerschap.png" alt="Logo for I-Partnerschap">
             </a>
             <a href="https://www.inaiyan.com/" target="_blank">
-              <img class='logo-image' src="/images/INAIYAN.jpeg" alt="Logo for INAIYAN">
+              <img class='logo-image' src="/images/INAIYAN.png" alt="Logo for INAIYAN">
             </a>
           </div>
         </div>
