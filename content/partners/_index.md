@@ -76,6 +76,12 @@ sections:
             <a href="https://polder.center//" target="_blank">
               <img class='logo-image-partner' src="/images/polder.png" alt="Logo for Polder Center">
             </a>
+            <a href="https://www.rijksorganisatieodi.nl/i-partnerschap" target="_blank">
+              <img class='logo-image-partner' src="/images/ipartnerschap.png" alt="Logo for I-Partnerschap">
+            </a>
+            <a href="https://www.inaiyan.com/" target="_blank">
+              <img class='logo-image-partner' src="/images/INAIYAN.png" alt="Logo for INAIYAN">
+            </a>
           </div>
 
         </div>
