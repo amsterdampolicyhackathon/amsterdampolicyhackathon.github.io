@@ -119,12 +119,23 @@
   width: auto;
   object-fit: contain;
   min-width: 100px;
+  transition: all .2s;
 }
+
+.logo-image:hover {
+  transform: scale(1.05);
+}
+
 
 .logo-image-partner {
   height: auto;
   width: 350px;
   object-fit: contain;
+  transition: all .2s;
+}
+
+.logo-image-partner:hover {
+  transform: scale(1.05);
 }
 
 .logo-section h3 {
