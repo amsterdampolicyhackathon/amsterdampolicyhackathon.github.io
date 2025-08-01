@@ -128,7 +128,7 @@ sections:
               <img class='logo-image' src="/images/INAIYAN.png" alt="Logo for INAIYAN">
             </a>
             <a href="https://www.aisoamsterdam.com/" target="_blank">
-              <img class='logo-image' src="/images/AISO_full.png" alt="Logo for AISO">
+              <img class='logo-image' src="/images/AISO.png" alt="Logo for AISO">
             </a>
           </div>
         </div>
