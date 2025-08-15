@@ -52,6 +52,12 @@ sections:
             <a href="https://www.ams-institute.org/" target="_blank">
               <img class='logo-image-partner' src="/images/AMS.png" alt="Logo for AMS Institute">
             </a>
+            <a href="https://www.amsterdam.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/gemeente.png" alt="Logo for Gemeente Amsterdam">
+            </a>
+            <a href="https://www.gelderland.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">
+            </a>
           </div>
           <h3>Community Partners</h3>
           <div class="logo-container">
