@@ -136,6 +136,9 @@ sections:
             <a href="https://www.gelderland.nl/" target="_blank">
               <img class='logo-image' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">
             </a>
+            <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
+              <img class='logo-image' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
+            </a>
           </div>
         </div>
         <script>

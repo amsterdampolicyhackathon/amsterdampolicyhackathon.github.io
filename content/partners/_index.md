@@ -91,6 +91,9 @@ sections:
             <a href="https://www.aisoamsterdam.com/" target="_blank">
               <img class='logo-image-partner' src="/images/AISO.png" alt="Logo for AISO">
             </a>
+            <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
+            </a>
           </div>
 
         </div>
