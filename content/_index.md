@@ -131,7 +131,7 @@ sections:
               <img class='logo-image' src="/images/AISO.png" alt="Logo for AISO">
             </a>
             <a href="https://www.amsterdam.nl/" target="_blank">
-              <img class='logo-image' src="/images/gemeente.png" alt="Logo for Gemeente Amsterdam">
+              <img class='logo-image' src="/images/municipality.png" alt="Logo for Gemeente Amsterdam">
             </a>
             <a href="https://www.gelderland.nl/" target="_blank">
               <img class='logo-image' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">

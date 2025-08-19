@@ -43,7 +43,6 @@ sections:
               <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab">
             </a>
           </div>
-
           <h3>Challenge Sponsors</h3>
           <div class="logo-container">
             <a href="https://www.pava.ai/" target="_blank">
@@ -53,7 +52,7 @@ sections:
               <img class='logo-image-partner' src="/images/AMS.png" alt="Logo for AMS Institute">
             </a>
             <a href="https://www.amsterdam.nl/" target="_blank">
-              <img class='logo-image-partner' src="/images/gemeente.png" alt="Logo for Gemeente Amsterdam">
+              <img class='logo-image-partner' src="/images/municipality.png" alt="Logo for Gemeente Amsterdam">
             </a>
             <a href="https://www.gelderland.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">
