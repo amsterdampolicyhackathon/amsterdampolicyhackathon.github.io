@@ -139,6 +139,9 @@ sections:
             <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
               <img class='logo-image' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
             </a>
+            <a href="https://benthomas.nl/" target="_blank">
+              <img class='logo-image' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
+            </a>
           </div>
         </div>
         <script>
