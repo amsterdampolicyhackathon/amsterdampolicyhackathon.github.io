@@ -57,9 +57,6 @@ sections:
             <a href="https://www.gelderland.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">
             </a>
-            <a href="https://benthomas.nl/" target="_blank">
-              <img class='logo-image-partner' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
-            </a>
           </div>
           <h3>Community Partners</h3>
           <div class="logo-container">
@@ -95,6 +92,9 @@ sections:
             </a>
             <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
+            </a>
+            <a href="https://benthomas.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
             </a>
           </div>
 
