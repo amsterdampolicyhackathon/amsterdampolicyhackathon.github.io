@@ -31,7 +31,7 @@ sections:
       title: Join us alongside our valued partners who already support our mission
       text: >-
         <div class="logo-section">
-          <h3>Made possible by</h3>
+          <h3>Sponsored by</h3>
           <div class="logo-container">
             <a href="https://wearebit.com/" target="_blank">
               <img class='logo-image-partner' src="/images/bit.png" alt="Logo for Bit">
@@ -56,6 +56,12 @@ sections:
             </a>
             <a href="https://www.gelderland.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/gelderland.png" alt="Logo for Provincie Gelderland">
+            </a>
+          </div>
+          <h3>Workshop Providers</h3>
+          <div class="logo-container">
+            <a href="https://benthomas.nl/" target="_blank">
+              <img class='logo-image-partner' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
             </a>
           </div>
           <h3>Community Partners</h3>
@@ -93,9 +99,7 @@ sections:
             <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
             </a>
-            <a href="https://benthomas.nl/" target="_blank">
-              <img class='logo-image-partner' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
-            </a>
+            
           </div>
 
         </div>
