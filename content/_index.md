@@ -34,11 +34,11 @@ sections:
         # Reference an image in your `assets/media/` folder
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Registrations are closed
-        url: https://forms.gle/aB2KvRuoPSzJcrGSA
-        icon_pack: fas
-        icon: door-closed
+      # cta:
+      #   label: Registrations are closed
+      #   url: https://forms.gle/aB2KvRuoPSzJcrGSA
+      #   icon_pack: fas
+      #   icon: door-closed
         # class: cta_button
       # Optionally, add an alternative CTA link
       # cta_alt:
