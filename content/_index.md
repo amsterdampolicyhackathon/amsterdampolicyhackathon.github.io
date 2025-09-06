@@ -38,7 +38,7 @@ sections:
         label: Registrations are closed
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
-        icon: right-to-bracket
+        icon: door-closed
         # class: cta_button
       # Optionally, add an alternative CTA link
       # cta_alt:
