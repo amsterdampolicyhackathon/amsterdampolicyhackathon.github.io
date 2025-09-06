@@ -142,6 +142,9 @@ sections:
             <a href="https://benthomas.nl/" target="_blank">
               <img class='logo-image' src="/images/thomas.png" alt="Logo for Thomas van Neerbos">
             </a>
+            <a href="https://www.mtelgon.com/roses" target="_blank">
+              <img class='logo-image' src="/images/elgon.svg" alt="Logo for Mount Elgon Orchards">
+            </a>
           </div>
         </div>
         <script>

@@ -99,7 +99,8 @@ sections:
             <a href="https://www.amsterdamsciencepark.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/amsterdamSP.png" alt="Logo for Amsterdam Science Park">
             </a>
-            
+            <a href="https://www.mtelgon.com/roses" target="_blank">
+              <img class='logo-image-partner' src="/images/elgon.svg" alt="Logo for Mount Elgon Orchards">
           </div>
 
         </div>
