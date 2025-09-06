@@ -35,7 +35,7 @@ sections:
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: Register here!
+        label: Registrations are closed
         url: https://forms.gle/aB2KvRuoPSzJcrGSA
         icon_pack: fas
         icon: right-to-bracket
@@ -74,10 +74,10 @@ sections:
   #     text: To be announced, stay tuned!
   - block: markdown
     content:
-      title: Registrations are open!
+      title: Registrations are closed
       subtitle: Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Register for the event and join us from **Friday evening, September 12, to 6PM CET on Sunday, September 14**!
-      text: |
-        {{% cta cta_link="https://forms.gle/aB2KvRuoPSzJcrGSA" cta_text="Register now!" cta_new_tab="true"%}}
+      # text: |
+      #   {{% cta cta_link="" cta_text="Registrations closed!" cta_new_tab="true"%}}
     design:
       columns: '1'
   - block: markdown
