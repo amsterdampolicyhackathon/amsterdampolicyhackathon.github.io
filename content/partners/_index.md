@@ -36,7 +36,7 @@ sections:
             <a href="https://wearebit.com/" target="_blank">
               <img class='logo-image-partner' src="/images/bit.png" alt="Logo for Bit">
             </a>
-            <a href="https://tintt.co/" target="_blank">
+            <a href="https://www.tintt.co/" target="_blank">
               <img class='logo-image-partner' src="/images/TINTT.png" alt="Logo for TINTT">
             </a>
             <a href="https://kickstart.ai/" target="_blank">
