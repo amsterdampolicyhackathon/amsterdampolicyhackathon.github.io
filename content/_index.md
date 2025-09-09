@@ -150,6 +150,9 @@ sections:
             <a href="https://www.mtelgon.com/roses" target="_blank">
               <img class='logo-image' src="/images/elgon.svg" alt="Logo for Mount Elgon Orchards">
             </a>
+            <a href="https://amsterdamdataacademy.com/" target="_blank">
+              <img class='logo-image' src="/images/ADA.png" alt="Logo for Amsterdam Data Academy">
+            </a>
           </div>
         </div>
         <script>

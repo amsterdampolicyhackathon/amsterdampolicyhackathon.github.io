@@ -45,6 +45,9 @@ sections:
             <a href="https://www.sustainalab.nl/" target="_blank">
               <img class='logo-image-partner' src="/images/sustainalab.png" alt="Logo for Sustainalab">
             </a>
+            <a href="https://amsterdamdataacademy.com/" target="_blank">
+              <img class='logo-image-partner' src="/images/ADA.png" alt="Logo for Amsterdam Data Academy">
+            </a>
           </div>
           <h3>Challenge Sponsors</h3>
           <div class="logo-container">
