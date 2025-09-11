@@ -53,6 +53,7 @@ sections:
             </a>
             <a href="https://www.mtelgon.com/roses" target="_blank">
               <img class='logo-image-partner' src="/images/elgon.svg" alt="Logo for Mount Elgon Orchards">
+            </a>
           </div>
           <h3>Challenge Sponsors</h3>
           <div class="logo-container">
