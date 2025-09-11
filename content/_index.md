@@ -153,6 +153,9 @@ sections:
             <a href="https://amsterdamdataacademy.com/" target="_blank">
               <img class='logo-image' src="/images/ADA.png" alt="Logo for Amsterdam Data Academy">
             </a>
+            <a href="https://nxtmuseum.com/" target="_blank">
+              <img class='logo-image' src="/images/NXTmuseum.png" alt="Logo for Nxt Museum Amsterdam">
+            </a>
           </div>
         </div>
         <script>

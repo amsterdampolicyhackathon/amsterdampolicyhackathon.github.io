@@ -48,6 +48,9 @@ sections:
             <a href="https://amsterdamdataacademy.com/" target="_blank">
               <img class='logo-image-partner' src="/images/ADA.png" alt="Logo for Amsterdam Data Academy">
             </a>
+            <a href="https://nxtmuseum.com/" target="_blank">
+              <img class='logo-image-partner' src="/images/NXTmuseum.png" alt="Logo for Nxt Museum Amsterdam">
+            </a>
           </div>
           <h3>Challenge Sponsors</h3>
           <div class="logo-container">
