@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Challenge Director
+role: Challenge Director | Research Fellow at the AMS Institute and MIT Senseable City Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
