@@ -34,11 +34,11 @@ sections:
         # Reference an image in your `assets/media/` folder
         # filename: bg-amsterdam.jpg
       # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join the Waitlist
-        url: https://forms.gle/aB2KvRuoPSzJcrGSA
-        icon_pack: fas
-        icon: clock
+      #cta:
+      #  label: Join the Waitlist
+      #  url: https://forms.gle/aB2KvRuoPSzJcrGSA
+      #  icon_pack: fas
+      #  icon: clock
         # class: cta_button
       # Optionally, add an alternative CTA link
       # cta_alt:
@@ -74,12 +74,12 @@ sections:
   #     text: To be announced, stay tuned!
   - block: markdown
     content:
-      title: Missed the deadline? Join the waitlist
+      title: Thanks to everyone for attending the event!
       subtitle: |
         Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Register for the event and join us from **Friday evening, September 12, to 6PM CET on Sunday, September 14**!
         Registration closed on 4 September at 23:59 CET. You can still sign up for the waitlist in case spots open up.
-      text: |
-        {{% cta cta_link=https://forms.gle/aB2KvRuoPSzJcrGSA cta_text="Sign up for the waitlist" cta_new_tab="true"%}}
+      #text: |
+      #  {{% cta cta_link=https://forms.gle/aB2KvRuoPSzJcrGSA cta_text="Sign up for the waitlist" cta_new_tab="true"%}}
     design:
       columns: '1'
   - block: markdown
