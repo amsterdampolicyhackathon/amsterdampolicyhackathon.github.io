@@ -78,7 +78,7 @@ sections:
       subtitle: |
         Are you motivated to work together in a multidisciplinary team of motivated peers to solve some of the most pressing challenges? Participate in the first Amsterdam Policy Hackathon! Register below to stay up to date about APH.
       text: |
-        {{% cta cta_link=https://forms.gle/aB2KvRuoPSzJcrGSA cta_text="Stay in the loop" cta_new_tab="true"%}}
+        {{% cta cta_link=https://forms.gle/iqDdhpaUhu2fL3sU8 cta_text="Stay in the loop" cta_new_tab="true"%}}
     design:
       columns: '1'
   - block: markdown
