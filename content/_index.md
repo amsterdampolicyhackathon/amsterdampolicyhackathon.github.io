@@ -93,31 +93,31 @@ sections:
             <div class="row row-cols-1 row-cols-lg-5 g-4">
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
-                  <h2 class="text-primary">170+</h2>
+                  <h2 class="stat-value">170+</h2>
                   <p>Sign-ups</p>
                 </div>
               </div>
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
-                  <h2 class="text-primary">80+</h2>
+                  <h2 class="stat-value">80+</h2>
                   <p>Participants</p>
                 </div>
               </div>
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
-                  <h2 class="text-primary">18</h2>
+                  <h2 class="stat-value">18</h2>
                   <p>Multidisciplinary Teams</p>
                 </div>
               </div>
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
-                  <h2 class="text-primary">4</h2>
+                  <h2 class="stat-value">4</h2>
                   <p>Policy Challenges</p>
                 </div>
               </div>
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
-                  <h2 class="text-primary">2.5</h2>
+                  <h2 class="stat-value">2.5</h2>
                   <p>Days of Innovation</p>
                 </div>
               </div>
