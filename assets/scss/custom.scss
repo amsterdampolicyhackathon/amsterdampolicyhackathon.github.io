@@ -5,6 +5,10 @@
   src: local('Archive Regular'), url('/fonts/Archive-Regular.woff');
 }
 
+html {
+  overflow-x: hidden;
+}
+
 .social-icons {
   display: flex;
   justify-content: center;
