@@ -46,7 +46,9 @@
     }
 
     const stats_container = document.getElementById("statistics");
-    stats_container.getElementsByClassName("container")[0].classList.remove("container")
+    if (stats_container) {
+      stats_container.getElementsByClassName("container")[0].classList.remove("container");
+    }
 });
   
 </script>
