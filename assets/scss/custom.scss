@@ -406,6 +406,17 @@
   }
 }
 
+/* video */
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+  
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100% !important;
+}
+
 /* Statistics */
 .stat-highlight {
   padding: 20px;
