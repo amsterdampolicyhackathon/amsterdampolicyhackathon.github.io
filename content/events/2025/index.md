@@ -15,12 +15,12 @@ abstract: 'The first edition of the Amsterdam Policy Hackathon was a tremendous 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-01T13:00:00Z'
-date_end: '2025-06-01T15:00:00Z'
+date: '2025-09-20T13:00:00Z'
+date_end: '2025-09-20T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-01-04T00:00:00Z'
+# publishDate: '2025-01-04T00:00:00Z'
 
 authors: [Diego van der Mast, Mike Geerts, Xuelong Fu]
 tags: []
@@ -52,26 +52,26 @@ slides: ""
 projects: []
 ---
 
-## Event Overview
+## Overview
 
-The first edition of the Amsterdam Policy Hackathon (APH) took place from September 12-14, 2025, at Amsterdam Science Park. This groundbreaking event brought together 80+ participants from diverse academic and professional backgrounds to tackle real-world policy challenges through innovative, data-driven solutions.
+The first edition of the Amsterdam Policy Hackathon (APH) took place from September 12-14, 2025, at Amsterdam Science Park. This inspiring event brought together 80+ participants from diverse academic and professional backgrounds to tackle real-world policy challenges through innovative, data-driven policymaking.
 
 ## Key Statistics
 
 - **170+ Sign-ups** from across the Netherlands and beyond
-- **80+ Participants** who attended the event
+- **80+ Selected Participants** who attended the event
 - **18 Multidisciplinary Teams** formed during the hackathon
 - **4 Policy Challenges** provided by government and industry stakeholders
-- **2.5 Days** of intensive collaboration and innovation
+- **2.5 Days** of intensive collaboration, policy hacking, and innovation
 
 ## Policy Challenges
 
 Our inaugural event featured four compelling challenges that participants tackled:
 
 1. **PAVA: Healthcare Innovation** - Quantifying impact of emergent healthcare technologies
-2. **AMS Institute: Urban Biodiversity** - Creating policy frameworks for supporting insect biodiversity in urban environments
-3. **BIT x Gelderland: Digital Governance** - Responsible AI use and technology policy in automating permit granting
-4. **City of Amsterdam: Energy Transition** - Designing platforms to support citizens in the energy transition
+2. **AMS Institute: Urban Biodiversity** - Creating data-driven policy frameworks for supporting insect biodiversity in urban environments
+3. **BIT x Gelderland: Digital Governance** - Automating permit granting service by responsibly using AI 
+4. **City of Amsterdam: Energy Transition** - Designing platforms to support citizen decision-making throughout the energy transition 
 
 ## Participant Testimonials
 
@@ -113,19 +113,19 @@ We were thrilled to receive numerous testimonials and feedback from participants
 ![View the 2025 Hackathon Schedule](/images/2025/schedule.png)
 
 ### Opening Ceremony
-The event kicked off with inspiring keynote presentations from industry leaders and professors, setting the stage for innovative policy development.
+The event kicked off with inspiring keynote presentations from industry leaders and experts, setting the stage for innovative policy development.
 
 ### Team Formation
 Participants had the opportunity to form multidisciplinary teams based on their interests and expertise, ensuring diverse perspectives on each challenge.
 
 ### Mentorship & Support
-Throughout the hackathon, participants received guidance from experienced mentors from academia, government, and industry.
+Throughout the hackathon, participants received guidance through mentoring and workshops.
 
 ### Final Presentations
-Teams presented their innovative policy solutions to a panel of judges from the public sector, private sector and academia, including representatives from the Municipality of Amsterdam and partner organizations.
+Teams presented their policy recommendations to a panel of judges from the public sector, private sector, and academia, including representatives from the Municipality of Amsterdam, Dutch Ministry, PwC, and more partner organizations.
 
 ## Looking Forward
 
-Looking forward, we aim to faciliate the development of ideas conceptualized at the hackathon with partner organisations and hackathon teams. The success of our first edition has set a strong foundation for future Amsterdam Policy Hackathon. We're excited to continue fostering the intersection of technology, data science, and policy innovation.
+Looking forward, we aim to faciliate the continued contact between partner organizations and hackathon teams, so that the innovative ideas generated during the event can be further developed. The success of our first edition has set a strong foundation for future Amsterdam Policy Hackathon. We're excited to continue connecting students and young professionals with real stakeholders and enabling them to leverage their technical and policy skills to tackle society's most pressing challenges.
 
 For more information about future events and how to get involved, visit our [FAQ section](/faq) or stay updated through our [newsletter signup](https://forms.gle/iqDdhpaUhu2fL3sU8).
