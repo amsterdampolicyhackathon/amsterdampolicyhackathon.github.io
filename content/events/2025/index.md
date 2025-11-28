@@ -15,8 +15,8 @@ abstract: 'The first edition of the Amsterdam Policy Hackathon was a tremendous 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-20T13:00:00Z'
-date_end: '2025-09-20T15:00:00Z'
+date: '2025-09-25T13:00:00Z'
+date_end: '2025-09-25T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -59,7 +59,7 @@ The first edition of the Amsterdam Policy Hackathon (APH) took place from Septem
 ## Key Statistics
 
 - **170+ Sign-ups** from across the Netherlands and beyond
-- **80+ Selected Participants** who attended the event
+- **80+ Selected Participants** attended, as spots were limited
 - **18 Multidisciplinary Teams** formed during the hackathon
 - **4 Policy Challenges** provided by government and industry stakeholders
 - **2.5 Days** of intensive collaboration, policy hacking, and innovation
