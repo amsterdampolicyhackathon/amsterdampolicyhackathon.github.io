@@ -107,7 +107,7 @@ sections:
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="stat-value">80+</h2>
-                  <p>Participants</p>
+                  <p>Selected Participants</p>
                 </div>
               </div>
               <div class="col">
@@ -125,7 +125,7 @@ sections:
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
                   <h2 class="stat-value">2.5</h2>
-                  <p>Days of Innovation</p>
+                  <p>Days of Hacking</p>
                 </div>
               </div>
             </div>
