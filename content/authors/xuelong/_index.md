@@ -48,7 +48,6 @@ profiles:
 highlight_name: true
 
 user_groups:
-  - Organizers
   - Past Team 2025
 
 # Author's website URL

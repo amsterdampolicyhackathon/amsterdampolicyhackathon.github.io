@@ -10,7 +10,7 @@ sections:
       subtitle: "Archive of former organizers, advisors, and collaborators"
   - block: people
     content:
-      title: "2025 Past Team"
+      title: "2025 Team"
       user_groups:
         - Past Team 2025
       sort_by: Params.last_name
