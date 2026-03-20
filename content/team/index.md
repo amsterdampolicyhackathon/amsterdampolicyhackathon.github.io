@@ -20,6 +20,8 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+  - block: markdown
+    content:
+      text: Find past teams in the [archive](/archive). 
+  
 ---
-
-Find past teams in the [archive](/archive). 
