@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bart Verkerk
+title: Tuan Do
 
 # Full name (for SEO)
-first_name: Bart
-last_name: Verkerk
+first_name: Tuan
+last_name: Do
 
 # Status emoji
 status:
@@ -18,9 +18,9 @@ role: Challenge Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: VU Amsterdam
-    url: https://vu.nl/nl
-
+  - name: University of Amsterdam
+    url: https://uva.nl/
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Challenge Director 
 
@@ -35,7 +35,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/bart-dylan-verkerk-a2291a144/
+    url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   # - icon: academicons/cv
   #   url: uploads/resume.pdf
@@ -47,8 +47,9 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
+user_groups:
   - Challenge Directors
+  - Past Team 2025
 
 # Author's website URL
 website: ""

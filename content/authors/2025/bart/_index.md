@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tuan Do
+title: Bart Verkerk
 
 # Full name (for SEO)
-first_name: Tuan
-last_name: Do
+first_name: Bart
+last_name: Verkerk
 
 # Status emoji
 status:
@@ -14,15 +14,15 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Co-organizer
+role: Challenge Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Amsterdam
-    url: https://uva.nl/
-  
+  - name: VU Amsterdam
+    url: https://vu.nl/nl
+
 # Short bio (displayed in user profile at end of posts)
-bio: Co-organizer 
+bio: Challenge Director 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,7 +35,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/bart-dylan-verkerk-a2291a144/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   # - icon: academicons/cv
   #   url: uploads/resume.pdf
@@ -47,8 +47,9 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
-  - Organizers
+user_groups:
+  - Challenge Directors
+  - Past Team 2025
 
 # Author's website URL
 website: ""

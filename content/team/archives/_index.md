@@ -1,0 +1,23 @@
+---
+title: Team archive
+date: 2026-03-20
+slug: archives
+type: landing
+sections:
+  - block: hero
+    content:
+      title: "Past Organizational Teams"
+      subtitle: "Archive of former organizers, advisors, and collaborators"
+  - block: people
+    content:
+      title: "2025 Past Team"
+      user_groups:
+        - Past Team 2025
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_role: true
+      show_social: true
+---
+
+This archive page lists previous organizational team members. The 2025 section includes people defined in `authors/2025`.

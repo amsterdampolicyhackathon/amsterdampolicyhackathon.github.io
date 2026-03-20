@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tuan Do
+title: Åse Håtveit
 
 # Full name (for SEO)
-first_name: Tuan
-last_name: Do
+first_name: Åse
+last_name: Håtveit
 
 # Status emoji
 status:
@@ -14,15 +14,15 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Co-organizer
+role: Challenge Director | Research Fellow at the AMS Institute and MIT Senseable City Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Amsterdam
-    url: https://uva.nl/
-  
+  - name: AMS Institute & MIT Senseable City Lab
+    url: https://www.ams-institute.org/
+
 # Short bio (displayed in user profile at end of posts)
-bio: Co-organizer 
+bio: Challenge Director 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,12 +30,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/linkedin
+  #   url: https://www.ams-institute.org/about-ams/team/research-fellows/ase-hatveit/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   # - icon: academicons/cv
   #   url: uploads/resume.pdf
@@ -47,8 +47,9 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
-  - Organizers
+user_groups:
+  - Challenge Directors
+  - Past Team 2025
 
 # Author's website URL
 website: ""

@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Tuan Do
+title: Theo Lake
 
 # Full name (for SEO)
-first_name: Tuan
-last_name: Do
+first_name: Theo
+last_name: Lake
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 role: Co-organizer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Amsterdam
-    url: https://uva.nl/
-  
+# organizations:
+#   - name: University of Amsterdam
+#     url: https://uva.nl/
+
 # Short bio (displayed in user profile at end of posts)
-bio: Co-organizer 
+# bio: My research interests include Artificial Intelligence, Game Development, and Music Production
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,12 +37,12 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  # - icon: academicons/cv
-  #   url: uploads/resume.pdf
-  #   label: Download my resume
-  # - icon: rss
-  #   url: ./post/index.xml
-  #   label: Subscribe to my blog via RSS feed
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download my resume
+  - icon: rss
+    url: ./post/index.xml
+    label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

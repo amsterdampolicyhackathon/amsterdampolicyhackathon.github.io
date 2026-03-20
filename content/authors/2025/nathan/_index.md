@@ -47,8 +47,9 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
+user_groups:
   - Advisors
+  - Past Team 2025
 
 # Author's website URL
 website: ""

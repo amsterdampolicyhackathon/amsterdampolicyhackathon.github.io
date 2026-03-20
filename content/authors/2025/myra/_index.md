@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Mike Geerts
+title: Myra Colis
 
 # Full name (for SEO)
-first_name: Mike
-last_name: Geerts
+first_name: Myra
+last_name: Colis
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Co-Founder & Co-organizer
+role: Challenge Director | Project Lead @ INAIYAN Ethics & Governance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Wageningen
-    url: https://wur.nl/
+  - name: INAIYAN
+    url: https://www.inaiyan.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Urban planner and international event organizer
+bio: Challenge Director 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,20 +35,21 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/myracolis/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  # - icon: academicons/cv
+  #   url: uploads/resume.pdf
+  #   label: Download my resume
+  # - icon: rss
+  #   url: ./post/index.xml
+  #   label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
-  - Organizers
+user_groups:
+  - Challenge Directors
+  - Past Team 2025
 
 # Author's website URL
 website: ""

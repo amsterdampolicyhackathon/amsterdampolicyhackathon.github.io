@@ -18,6 +18,9 @@ main:
   - name: Team
     weight: 60
     url: /team
+  - name: Team archive
+    weight: 61
+    url: /team/archives/
   - name: Recent Events
     weight: 70
     url: /events/2025/
