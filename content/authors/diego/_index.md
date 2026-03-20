@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Co-Founder & Co-organizer
+role: Co-organizer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,7 +49,6 @@ highlight_name: true
 
 user_groups:
   - Organizers
-  - Past Team 2025
 
 # Author's website URL
 website: ""
