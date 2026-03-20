@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Co-organizer
+role: Challenge Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://uva.nl/
   
 # Short bio (displayed in user profile at end of posts)
-bio: Co-organizer 
+bio: Challenge Director 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +47,7 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-user_groups: 
+user_groups:
   - Organizers
 
 # Author's website URL

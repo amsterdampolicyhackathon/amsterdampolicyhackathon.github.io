@@ -19,5 +19,3 @@ sections:
       show_role: true
       show_social: true
 ---
-
-This archive page lists previous organizational team members. The 2025 section includes people defined in `authors/2025`.
