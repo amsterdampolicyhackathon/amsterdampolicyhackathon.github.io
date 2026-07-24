@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: >-
-        <div style="color: white; font-family: 'Archive Regular'">Amsterdam Policy Hackathon</div>
+        <div class="hero-eyebrow">Amsterdam · Science Park</div><div style="color: white; font-family: 'Archive Regular'">Amsterdam Policy Hackathon</div>
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Stay in the loop
@@ -16,7 +16,7 @@ sections:
         icon_pack: fas
         icon: newspaper
       text: >-
-        <div style="color: white;"><b>A new hackathon focused on interdisciplinary, data-driven policymaking.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script>   
+        <div style="color: white;"><b>A new hackathon focused on interdisciplinary, data-driven policymaking.</b></div><!--Custom spacing--><div class="mb-3"></div><!--GitHub Button JS--><script async defer src="https://buttons.github.io/buttons.js"></script><a href="#about" class="hero-scroll-cue" aria-label="Scroll to learn more"><i class="fas fa-chevron-down"></i></a>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
