@@ -770,20 +770,24 @@ body {
 .home-section:not(#section-hero) h1,
 .home-section:not(#section-hero) h2,
 .home-section:not(#section-hero) h3,
+.home-section:not(#section-hero) h4,
+.home-section:not(#section-hero) h5,
+.home-section:not(#section-hero) h6,
 .home-section:not(#section-hero) p,
+.home-section:not(#section-hero) li,
 .home-section:not(#section-hero) .section-heading p {
   color: #e7ecf5;
 }
 
 .home-section:not(#section-hero) a:not(.btn):not(.read-more-link) {
-  color: #6fd6c9;
+  color: #ff0000;
 }
 
 /* About heading accent switches to teal so it reads as part of the cool palette,
    red stays reserved for calls to action */
 #about .section-heading h1::after,
 #about h1::after {
-  background: #6fd6c9;
+  background: #ff0000;
 }
 
 #about .block-content,
@@ -807,7 +811,7 @@ body {
 }
 
 .hero-eyebrow {
-  border-bottom-color: #6fd6c9;
+  border-bottom-color: #ff0000;
 }
 
 /* Statistics: frosted glass panel instead of flat white, now that it's the
@@ -887,7 +891,7 @@ body {
    different template than the homepage and were missed by Round 3)
 ===================================================================== */
 
-/* Page titles, e.g. "Recent Events", "FAQ" */
+/* Page titles, e.g. "Recent Events" */
 .universal-wrapper h1,
 .article-container h1 {
   color: #ffffff;
@@ -920,10 +924,10 @@ body {
 }
 
 .article-metadata a {
-  color: #6fd6c9;
+  color: #ff0000;
 }
 
 /* Generic links inside article body content */
 .article-style a {
-  color: #6fd6c9;
+  color: #ff0000;
 }
