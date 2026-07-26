@@ -24,12 +24,55 @@ sections:
           filename: bg-amsterdam.jpg
           filters:
             brightness: 0.5
-  
+
+  - block: markdown
+    id: statistics
+    content:
+      text: |
+        <div class="bg-white shadow-sm">
+            <div class="row row-cols-1 row-cols-lg-5 g-4">
+              <div class="col">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="stat-value">170+</h2>
+                  <p>Sign-ups</p>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="stat-value">80+</h2>
+                  <p>Selected Participants</p>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="stat-value">18</h2>
+                  <p>Multidisciplinary Teams</p>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="stat-value">4</h2>
+                  <p>Policy Challenges</p>
+                </div>
+              </div>
+              <div class="col">
+                <div class="text-center p-4 stat-highlight">
+                  <h2 class="stat-value">2.5</h2>
+                  <p>Days of Hacking</p>
+                </div>
+              </div>
+            </div>
+        </div>
+    design:
+      css_class: reveal-section
+
   - block: markdown
     id: about
     content:
       title: About
       text: |-
+        **A hackathon built for people who want policy to move as fast as the problems it's solving for.**
+
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, taking place at Science Park, University of Amsterdam, students and young professionals form multidisciplinary teams to develop data-informed policies and/or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry stakeholders. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
     design:
       css_class: reveal-section
@@ -94,46 +137,6 @@ sections:
         </div>
     design:
       columns: '1'
-      css_class: reveal-section
-  - block: markdown
-    id: statistics
-    content:
-      text: |
-        <div class="bg-white shadow-sm">
-            <div class="row row-cols-1 row-cols-lg-5 g-4">
-              <div class="col">
-                <div class="text-center p-4 stat-highlight">
-                  <h2 class="stat-value">170+</h2>
-                  <p>Sign-ups</p>
-                </div>
-              </div>
-              <div class="col">
-                <div class="text-center p-4 stat-highlight">
-                  <h2 class="stat-value">80+</h2>
-                  <p>Selected Participants</p>
-                </div>
-              </div>
-              <div class="col">
-                <div class="text-center p-4 stat-highlight">
-                  <h2 class="stat-value">18</h2>
-                  <p>Multidisciplinary Teams</p>
-                </div>
-              </div>
-              <div class="col">
-                <div class="text-center p-4 stat-highlight">
-                  <h2 class="stat-value">4</h2>
-                  <p>Policy Challenges</p>
-                </div>
-              </div>
-              <div class="col">
-                <div class="text-center p-4 stat-highlight">
-                  <h2 class="stat-value">2.5</h2>
-                  <p>Days of Hacking</p>
-                </div>
-              </div>
-            </div>
-        </div>
-    design:
       css_class: reveal-section
   - block: markdown
     content:
