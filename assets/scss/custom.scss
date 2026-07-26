@@ -880,3 +880,50 @@ body {
 #testimonials .lead {
   color: #cfd8e8;
 }
+
+/* =====================================================================
+   ROUND 4: fix dark-on-dark text on non-homepage pages
+   (events listing, individual event pages, team, FAQ, etc. use a
+   different template than the homepage and were missed by Round 3)
+===================================================================== */
+
+/* Page titles, e.g. "Recent Events" */
+.universal-wrapper h1,
+.article-container h1 {
+  color: #ffffff;
+}
+
+/* Card titles + subtitles in listing views (e.g. events list) */
+.article-title a {
+  color: #ffffff !important;
+}
+
+.article-style {
+  color: #dfe6f2;
+}
+
+/* Body content on individual pages (headings, paragraphs, lists) */
+.article-style h1,
+.article-style h2,
+.article-style h3,
+.article-style h4,
+.article-style p,
+.article-style li {
+  color: #e7ecf5;
+}
+
+/* Author/date metadata */
+.article-metadata,
+.article-metadata a,
+.article-date {
+  color: #b7c2d6;
+}
+
+.article-metadata a {
+  color: #6fd6c9;
+}
+
+/* Generic links inside article body content */
+.article-style a {
+  color: #6fd6c9;
+}
