@@ -31,6 +31,8 @@ sections:
       title: About
       text: |-
         The Amsterdam Policy Hackathon (APH) is a newly founded hackathon event in Amsterdam, the Netherlands. During this 2.5 days competition event, taking place at Science Park, University of Amsterdam, students and young professionals form multidisciplinary teams to develop data-informed policies and/or policy tools to help with solving the most pressing societal issues in Amsterdam or the Netherlands more broadly. The challenges are provided by both government and industry stakeholders. At the core, the event champions research and policy development at the interdisciplinary intersection between technology and society. The event is inspired by the MIT Policy Hackathon, which is a similar competition held annually at the Massachusetts Institute of Technology in Boston, US.
+    design:
+      css_class: reveal-section
 
   - block: markdown
     id: testimonials
@@ -92,6 +94,7 @@ sections:
         </div>
     design:
       columns: '1'
+      css_class: reveal-section
   - block: markdown
     id: statistics
     content:
@@ -130,6 +133,8 @@ sections:
               </div>
             </div>
         </div>
+    design:
+      css_class: reveal-section
   - block: markdown
     content:
       title: Thank you to everyone for attending the event!
@@ -139,6 +144,7 @@ sections:
         {{% cta cta_link=https://forms.gle/iqDdhpaUhu2fL3sU8 cta_text="Stay in the loop" cta_new_tab="true"%}}
     design:
       columns: '1'
+      css_class: reveal-section cta-bold
   - block: markdown
     id: partners
     content:
@@ -219,4 +225,25 @@ sections:
           var copy = document.querySelector(".logos-slide").cloneNode(true);
           document.querySelector(".logos").appendChild(copy);
         </script>
+        <!--Scroll-reveal for homepage sections-->
+        <script>
+          (function () {
+            var targets = document.querySelectorAll('.reveal-section');
+            if (!('IntersectionObserver' in window) || !targets.length) {
+              targets.forEach(function (el) { el.classList.add('is-visible'); });
+              return;
+            }
+            var observer = new IntersectionObserver(function (entries) {
+              entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                  entry.target.classList.add('is-visible');
+                  observer.unobserve(entry.target);
+                }
+              });
+            }, { threshold: 0.15 });
+            targets.forEach(function (el) { observer.observe(el); });
+          })();
+        </script>
+    design:
+      css_class: reveal-section
 ---
