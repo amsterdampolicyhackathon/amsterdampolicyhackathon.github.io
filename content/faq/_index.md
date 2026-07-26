@@ -103,11 +103,25 @@ sections:
         </details>
 
         </div>
+
+        <script>
+          (function () {
+            var targets = document.querySelectorAll('.reveal-section');
+            if (!('IntersectionObserver' in window) || !targets.length) {
+              targets.forEach(function (el) { el.classList.add('is-visible'); });
+              return;
+            }
+            var observer = new IntersectionObserver(function (entries) {
+              entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                  entry.target.classList.add('is-visible');
+                  observer.unobserve(entry.target);
+                }
+              });
+            }, { threshold: 0.15 });
+            targets.forEach(function (el) { observer.observe(el); });
+          })();
+        </script>
     design:
       css_class: reveal-section
-
-
 ---
----
-<!-- #### Where can my team and I work during the weekends?
-        We are currently reaching out to locations of the University of Amsterdam and the Vrije Universiteit Amsterdam to reserve collaboration spaces and desks. However, you are free to hack anywhere you want, like at a cozy cafe or a park. Live attendance is mandatory for the plenary sessions, like during the kick-off and final pitches. Attendance to workshops or guidance sessions for questions is optional.  -->
