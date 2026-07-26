@@ -19,12 +19,12 @@ html {
 }
 
 .navbar .navbar-nav .nav-link.active {
-  color: #FB0102 !important;
+  color: #ff0000 !important;
 }
 
 .btn-primary {
-  background-color: #fb0102 !important;
-  border-color: #fb0102 !important;
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
 }
 
 .hero-cta-alt {
@@ -159,7 +159,7 @@ html {
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   height: 100%;
-  border-left: 3px solid #fb0102;
+  border-left: 3px solid #ff0000;
   display: flex;
   flex-direction: column;
 }
@@ -188,7 +188,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #fb0102;
+  border: 2px solid #ff0000;
 }
 
 .avatar-img {
@@ -198,7 +198,7 @@ html {
 }
 
 .avatar-placeholder {
-  color: #fb0102;
+  color: #ff0000;
   font-size: 20px;
 }
 
@@ -230,7 +230,7 @@ html {
 .testimonials blockquote:before {
   content: '“';
   font-size: 2.5rem; /* slightly smaller */
-  color: #fb0102;
+  color: #ff0000;
   position: absolute;
   top: -12px;
   left: -8px;
@@ -246,7 +246,7 @@ html {
 }
 
 .read-more-link {
-  color: #fb0102;
+  color: #ff0000;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -347,7 +347,7 @@ html {
 
 .video-placeholder:hover {
   background: #e9ecef !important;
-  border-color: #fb0102 !important;
+  border-color: #ff0000 !important;
 }
 
 /* Responsive adjustments */
@@ -441,7 +441,7 @@ iframe {
 }
 
 .stat-value {
-  color: #fb0102;
+  color: #ff0000;
 }
 
 #statistics {
@@ -493,7 +493,7 @@ html {
   opacity: 0.85;
   margin-bottom: 14px;
   padding-bottom: 10px;
-  border-bottom: 2px solid #fb0102;
+  border-bottom: 2px solid #ff0000;
 }
 
 .hero-title {
@@ -589,7 +589,7 @@ html {
   transform: translateX(-50%);
   width: 60px;
   height: 3px;
-  background: #fb0102;
+  background: #ff0000;
   border-radius: 2px;
 }
 
@@ -612,7 +612,7 @@ html {
 }
 
 .stat-value {
-  background: linear-gradient(135deg, #fb0102, #ff5b5c);
+  background: linear-gradient(135deg, #ff0000, #ff5b5c);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -634,9 +634,9 @@ html {
    ROUND 2: bolder look, page gradient, scroll-triggered "pop" reveals
 ===================================================================== */
 
-/* Deep, cool ambient gradient behind the whole page — no white anywhere */
+/* Deep, warm-toned ambient gradient behind the whole page — plum/burgundy to black */
 body {
-  background: linear-gradient(160deg, #0a1128 0%, #16213e 35%, #1b3a4b 65%, #12545e 100%) fixed;
+  background: linear-gradient(160deg, #1b0710 0%, #4a1228 40%, #2a0a16 70%, #0b0407 100%) fixed;
   color: #e7ecf5;
 }
 
@@ -716,7 +716,7 @@ body {
 
 /* ---------- Bold gradient CTA section ---------- */
 .cta-bold {
-  background: linear-gradient(135deg, #fb0102 0%, #b30001 100%) !important;
+  background: linear-gradient(135deg, #ff0000 0%, #b30001 100%) !important;
   border-radius: 20px;
   margin: 40px auto;
   max-width: 1100px;
@@ -737,7 +737,7 @@ body {
 .cta-bold .btn-primary {
   background: #fff !important;
   border-color: #fff !important;
-  color: #fb0102 !important;
+  color: #ff0000 !important;
   font-weight: 700;
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.25);
 }
@@ -807,7 +807,7 @@ body {
 /* Hero overlay recolored to flow into the body gradient's top tone,
    so the seam between hero and the next section disappears */
 #section-hero .home-section-bg::after {
-  background: linear-gradient(180deg, rgba(10, 17, 40, 0.45) 0%, rgba(10, 17, 40, 0.3) 40%, rgba(10, 17, 40, 0.95) 100%);
+  background: linear-gradient(180deg, rgba(20, 6, 12, 0.45) 0%, rgba(20, 6, 12, 0.3) 40%, rgba(20, 6, 12, 0.95) 100%);
 }
 
 .hero-eyebrow {
@@ -849,7 +849,7 @@ body {
 }
 
 .linkedin-testimonials {
-  background: linear-gradient(135deg, #0d5f77 0%, #123b57 100%);
+  background: linear-gradient(135deg, #4a1228 0%, #1b0710 100%);
 }
 
 /* Partners: give the logo strip a subtle glass rail so light-background
@@ -866,11 +866,11 @@ body {
 }
 
 .logos:before {
-  background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(10, 30, 45, 0.6));
+  background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(20, 7, 13, 0.7));
 }
 
 .logos:after {
-  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(10, 30, 45, 0.6));
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(20, 7, 13, 0.7));
 }
 
 .logo-image {
@@ -930,4 +930,180 @@ body {
 /* Generic links inside article body content */
 .article-style a {
   color: #ff0000;
+}
+
+/* =====================================================================
+   ROUND 5: final gradient (plum/burgundy -> black), navbar dark theme,
+   subtle brand-red glow accents, FAQ accordion styling
+===================================================================== */
+
+/* ---------- Navbar: match the dark theme instead of the theme's white bar ---------- */
+.navbar {
+  background: linear-gradient(120deg, #1b0710, #2a0a16) !important;
+  box-shadow: 0 2px 18px rgba(0, 0, 0, 0.4);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .nav-link span {
+  color: #e7ecf5 !important;
+}
+
+.navbar .nav-link:hover span {
+  color: #ff6b6b !important;
+}
+
+.navbar .navbar-nav .nav-link.active {
+  color: #ff0000 !important;
+}
+
+.navbar .navbar-nav .nav-link.active span {
+  color: #ff0000 !important;
+}
+
+.navbar-toggler-icon,
+.navbar .navbar-toggler i {
+  color: #e7ecf5 !important;
+}
+
+/* Dropdown / mobile menu */
+.dropdown-menu {
+  background-color: #1b0710 !important;
+}
+
+/* ---------- Subtle brand-red ambient glow behind key text ---------- */
+#section-hero .container::before {
+  content: "";
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 260px;
+  background: radial-gradient(ellipse at center, rgba(255, 0, 0, 0.16) 0%, rgba(255, 0, 0, 0) 70%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+#about .section-heading {
+  position: relative;
+}
+
+#about .section-heading::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 320px;
+  height: 160px;
+  background: radial-gradient(ellipse at center, rgba(255, 0, 0, 0.14) 0%, rgba(255, 0, 0, 0) 70%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.cta-bold {
+  position: relative;
+}
+
+.cta-bold::before {
+  content: "";
+  position: absolute;
+  inset: -30px;
+  background: radial-gradient(ellipse at center, rgba(255, 0, 0, 0.25) 0%, rgba(255, 0, 0, 0) 70%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Brand-highlight utility class for key words/phrases (used sparingly) */
+.brand-highlight {
+  color: #ff3b3b;
+  font-weight: 700;
+}
+
+/* ---------- FAQ: turn Q&A pairs into clear, friendly accordion cards ---------- */
+.faq-category {
+  display: inline-block;
+  color: #ff3b3b;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 40px 0 16px;
+}
+
+.faq-list {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.faq-item {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  margin-bottom: 14px;
+  padding: 0;
+  transition: border-color 0.25s ease, background 0.25s ease;
+  overflow: hidden;
+}
+
+.faq-item[open] {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 0, 0, 0.4);
+}
+
+.faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 18px 22px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-q-marker {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(255, 0, 0, 0.85);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.faq-q-text {
+  flex: 1 1 auto;
+}
+
+.faq-toggle-icon {
+  flex: 0 0 auto;
+  color: #b7c2d6;
+  transition: transform 0.25s ease;
+  font-size: 0.85rem;
+}
+
+.faq-item[open] .faq-toggle-icon {
+  transform: rotate(180deg);
+  color: #ff3b3b;
+}
+
+.faq-answer {
+  padding: 0 22px 20px 64px;
+  color: #d3dae7;
+  line-height: 1.7;
+}
+
+.faq-answer p {
+  color: #d3dae7 !important;
+  margin: 0;
 }
