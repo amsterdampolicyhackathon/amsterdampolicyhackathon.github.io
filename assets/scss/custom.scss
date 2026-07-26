@@ -634,9 +634,10 @@ html {
    ROUND 2: bolder look, page gradient, scroll-triggered "pop" reveals
 ===================================================================== */
 
-/* Soft ambient gradient behind the whole page instead of flat white */
+/* Deep, cool ambient gradient behind the whole page — no white anywhere */
 body {
-  background: linear-gradient(160deg, #fdfdfd 0%, #f3f4f8 45%, #eef0f6 100%) fixed;
+  background: linear-gradient(160deg, #0a1128 0%, #16213e 35%, #1b3a4b 65%, #12545e 100%) fixed;
+  color: #e7ecf5;
 }
 
 /* Sections keep their own background but are transparent to the body gradient
@@ -753,4 +754,129 @@ body {
 
 .home-section .btn-primary:hover {
   transform: translateY(-3px) scale(1.03);
+}
+
+/* =====================================================================
+   ROUND 3: dark navy/teal gradient theme (no white background anywhere)
+===================================================================== */
+
+/* Let every section (except the hero, which has its own photo) show
+   the body gradient through instead of the theme's white/gray panels */
+.home-section:not(#section-hero) {
+  background: transparent !important;
+}
+
+/* Default text on the gradient needs to be light, not the theme's dark-on-white text */
+.home-section:not(#section-hero) h1,
+.home-section:not(#section-hero) h2,
+.home-section:not(#section-hero) h3,
+.home-section:not(#section-hero) p,
+.home-section:not(#section-hero) .section-heading p {
+  color: #e7ecf5;
+}
+
+.home-section:not(#section-hero) a:not(.btn):not(.read-more-link) {
+  color: #6fd6c9;
+}
+
+/* About heading accent switches to teal so it reads as part of the cool palette,
+   red stays reserved for calls to action */
+#about .section-heading h1::after,
+#about h1::after {
+  background: #6fd6c9;
+}
+
+#about .block-content,
+#about p {
+  color: #dfe6f2;
+}
+
+#about .block-content strong:first-child,
+#about p strong {
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 14px;
+}
+
+/* Hero overlay recolored to flow into the body gradient's top tone,
+   so the seam between hero and the next section disappears */
+#section-hero .home-section-bg::after {
+  background: linear-gradient(180deg, rgba(10, 17, 40, 0.45) 0%, rgba(10, 17, 40, 0.3) 40%, rgba(10, 17, 40, 0.95) 100%);
+}
+
+.hero-eyebrow {
+  border-bottom-color: #6fd6c9;
+}
+
+/* Statistics: frosted glass panel instead of flat white, now that it's the
+   first section after the hero */
+#statistics {
+  padding: 70px 0 !important;
+}
+
+#statistics > .bg-white,
+#statistics .container > div {
+  background: rgba(255, 255, 255, 0.06) !important;
+  backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 20px;
+}
+
+#statistics .stat-highlight {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+#statistics .stat-highlight p {
+  color: #b7c2d6 !important;
+}
+
+/* Testimonials: keep cards as bright glass-white panels so quotes stay
+   easy to read, they now pop even more against the dark gradient */
+#testimonials {
+  background: transparent !important;
+  padding: 70px 0 !important;
+}
+
+.testimonials .testimonial-card {
+  background: rgba(255, 255, 255, 0.97);
+}
+
+.linkedin-testimonials {
+  background: linear-gradient(135deg, #0d5f77 0%, #123b57 100%);
+}
+
+/* Partners: give the logo strip a subtle glass rail so light-background
+   logos don't float awkwardly on the dark gradient */
+#partners {
+  padding: 60px 0 90px !important;
+}
+
+.logos {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  backdrop-filter: blur(10px);
+}
+
+.logos:before {
+  background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(10, 30, 45, 0.6));
+}
+
+.logos:after {
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(10, 30, 45, 0.6));
+}
+
+.logo-image {
+  background: #fff;
+  border-radius: 8px;
+  padding: 8px 14px;
+}
+
+/* Video placeholder text sits on the gradient now, needs light color */
+.video-container + * ,
+#testimonials .lead {
+  color: #cfd8e8;
 }
