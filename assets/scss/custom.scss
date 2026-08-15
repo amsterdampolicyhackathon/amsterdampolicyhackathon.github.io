@@ -943,10 +943,23 @@ body {
   box-shadow: 0 2px 18px rgba(0, 0, 0, 0.4);
 }
 
-.navbar .navbar-brand,
 .navbar .nav-link,
 .navbar .nav-link span {
   color: #e7ecf5 !important;
+}
+
+.navbar-brand {
+    color: #e7ecf5 !important;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.97);
+    background-color: rgba(255, 255, 255, 0.97);
+    border: 1px solid rgba(22, 34, 61, 0.12);
+    box-shadow: 0 8px 18px rgba(5, 9, 18, 0.2);
+    max-height: 30px;
 }
 
 .navbar .nav-link:hover span {
@@ -1106,4 +1119,8 @@ body {
 .faq-answer p {
   color: #d3dae7 !important;
   margin: 0;
+}
+
+.site-footer {
+  color: rgb(231, 236, 245)
 }
