@@ -29,7 +29,7 @@ sections:
     id: statistics
     content:
       text: |
-        <div class="bg-white shadow-sm">
+        <div class="shadow-sm">
             <div class="row row-cols-1 row-cols-lg-5 g-4">
               <div class="col">
                 <div class="text-center p-4 stat-highlight">
